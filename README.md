@@ -5,9 +5,7 @@ Michael's portfolio
 
 ## Introduction
 
-Welcome to my portfolio! I'm Michael Bogale, a Junior AI/Data Scientist with a passion for problem-solving and a strong foundation in artificial intelligence and data science. This README serves as a brief overview of my skills and projects.
-
-## About Me
+Welcome to my portfolio! I'm Michael Bogale, a Junior AI/Data Scientist with a passion for problem-solving and a strong foundation in artificial intelligence and data science. This portfolio serves as a brief overview of my skills and projects.
 
 ## About Me
 
