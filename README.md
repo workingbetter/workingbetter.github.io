@@ -95,16 +95,6 @@ Check out some of my featured projects, github links to projects are attached wi
 - **Tools:** Jupyter Notebook, Google Colab, Git, GitHub, SQL, Excel, Spreadsheet
 - **Others:** Statistical Analysis, Data Analysis and pre processing, Data Visualization, Teamwork, Problem Solving
 
-## Skills
-
-- Python
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- SQL
-- Statistical Analysis
-- Data Analysis and Preprocessing
-
 ## Certifications and Courses
 
 - Coursera: [Introduction to Generative AI(Google Cloud)](https://coursera.org/share/b3db3b5f0a6512a67d0007dcc7206311)
