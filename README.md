@@ -1,4 +1,4 @@
-![](/Images/CV Michael (2)-1.jpg)
+![](/Images/)
 # Junior AI, Data Scientist
 Michael's portfolio
 
