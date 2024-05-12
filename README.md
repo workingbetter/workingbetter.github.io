@@ -1,4 +1,4 @@
-![](/images/positions_by_state.png)
+![](/Images/CV Michael (2)-1.jpg)
 # Junior AI, Data Scientist
 Michael's portfolio
 
