@@ -1,0 +1,1054 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_6011cc33a52235e4fb03675ed94f9b29 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdn.jsdelivr.net/npm/leaflet-ant-path@1.1.2/dist/leaflet-ant-path.min.js"></script>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_6011cc33a52235e4fb03675ed94f9b29" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_6011cc33a52235e4fb03675ed94f9b29 = L.map(
+                "map_6011cc33a52235e4fb03675ed94f9b29",
+                {
+                    center: [54.2239055, -3.19001165],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 6,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_87be3d34786edd9f83d5acfcb7b3a3ff = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+            var marker_bf953a949a714ba86c95dd8d918778ce = L.marker(
+                [55.8618751, -4.2506842],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+            var icon_1bcf5a162da49bd60c0504a94a6c4a74 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_bf953a949a714ba86c95dd8d918778ce.setIcon(icon_1bcf5a162da49bd60c0504a94a6c4a74);
+        
+    
+        var popup_19fcfa1b5081409f9b380533883e9d89 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fd478634cf65a40eb482d7881efdc57a = $(`<div id="html_fd478634cf65a40eb482d7881efdc57a" style="width: 100.0%; height: 100.0%;">Start</div>`)[0];
+                popup_19fcfa1b5081409f9b380533883e9d89.setContent(html_fd478634cf65a40eb482d7881efdc57a);
+            
+        
+
+        marker_bf953a949a714ba86c95dd8d918778ce.bindPopup(popup_19fcfa1b5081409f9b380533883e9d89)
+        ;
+
+        
+    
+    
+            var marker_fbc1e8014f88ddc2a3c6d9f9c2fd7b89 = L.marker(
+                [52.5859359, -2.1293391],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+            var icon_66215ca93bba932800d7c45ba059844c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_fbc1e8014f88ddc2a3c6d9f9c2fd7b89.setIcon(icon_66215ca93bba932800d7c45ba059844c);
+        
+    
+        var popup_3168d969615cee5f1347428d1a0ea3e4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_90db5c891ce3470dd9eb454b0b75a56a = $(`<div id="html_90db5c891ce3470dd9eb454b0b75a56a" style="width: 100.0%; height: 100.0%;">End</div>`)[0];
+                popup_3168d969615cee5f1347428d1a0ea3e4.setContent(html_90db5c891ce3470dd9eb454b0b75a56a);
+            
+        
+
+        marker_fbc1e8014f88ddc2a3c6d9f9c2fd7b89.bindPopup(popup_3168d969615cee5f1347428d1a0ea3e4)
+        ;
+
+        
+    
+    
+            ant_path_573e78d2f98c70a5675458c379b679f5 = L.polyline.antPath(
+              [[55.86165, -4.25077], [55.86618, -4.22356], [55.87119, -4.19847], [55.87113, -4.17813], [55.86866, -4.16171], [55.86869, -4.1356], [55.864, -4.12294], [55.85854, -4.09908], [55.85092, -4.08923], [55.83182, -4.09828], [55.82323, -4.07387], [55.80144, -4.05212], [55.78049, -4.02106], [55.76634, -3.99552], [55.75376, -3.96971], [55.74088, -3.95342], [55.73335, -3.95068], [55.72553, -3.9542], [55.71612, -3.95604], [55.70872, -3.95259], [55.68595, -3.93887], [55.66782, -3.92609], [55.65969, -3.91533], [55.65421, -3.89838], [55.63694, -3.87289], [55.61882, -3.8526], [55.57733, -3.81575], [55.54864, -3.7992], [55.52693, -3.76677], [55.51522, -3.71217], [55.50598, -3.69692], [55.49301, -3.69586], [55.48292, -3.69635], [55.47068, -3.69049], [55.46692, -3.66078], [55.45994, -3.64576], [55.44548, -3.65228], [55.4318, -3.64034], [55.42639, -3.60195], [55.4124, -3.57726], [55.40169, -3.55309], [55.39718, -3.53202], [55.38915, -3.52238], [55.37369, -3.51321], [55.3598, -3.51411], [55.34694, -3.50241], [55.3412, -3.48829], [55.32656, -3.47154], [55.3173, -3.4629], [55.30504, -3.44542], [55.28762, -3.43474], [55.26571, -3.41712], [55.24862, -3.40951], [55.22086, -3.41286], [55.19579, -3.40976], [55.17944, -3.40447], [55.17204, -3.39498], [55.15476, -3.38401], [55.12732, -3.36577], [55.10682, -3.3525], [55.09592, -3.3274], [55.08196, -3.31564], [55.07263, -3.29879], [55.0637, -3.26451], [55.05851, -3.25519], [55.05566, -3.23758], [55.04891, -3.20888], [55.04287, -3.18401], [55.03032, -3.16127], [55.02575, -3.12923], [55.01467, -3.10609], [55.00696, -3.07148], [54.99148, -3.04412], [54.98002, -3.02314], [54.96148, -2.99234], [54.93669, -2.96241], [54.93055, -2.94924], [54.93042, -2.92815], [54.92091, -2.90804], [54.91022, -2.8967], [54.89955, -2.88712], [54.88359, -2.88318], [54.87134, -2.87592], [54.85724, -2.87837], [54.8273, -2.8892], [54.81313, -2.88153], [54.79891, -2.87087], [54.77211, -2.84633], [54.74375, -2.81053], [54.7003, -2.79112], [54.6815, -2.78631], [54.66118, -2.77105], [54.64579, -2.74261], [54.63279, -2.72639], [54.60733, -2.71005], [54.58233, -2.69873], [54.55971, -2.67696], [54.54656, -2.6639], [54.52844, -2.65886], [54.50265, -2.64537], [54.47843, -2.63204], [54.46172, -2.61757], [54.44646, -2.59752], [54.43864, -2.59572], [54.42889, -2.60116], [54.41333, -2.60123], [54.40264, -2.60475], [54.39453, -2.59769], [54.38051, -2.58148], [54.36947, -2.58484], [54.3651, -2.59589], [54.3541, -2.61845], [54.33882, -2.61713], [54.32173, -2.63371], [54.29047, -2.65908], [54.27234, -2.6762], [54.25867, -2.68658], [54.24549, -2.69959], [54.23627, -2.71672], [54.2202, -2.72101], [54.20325, -2.7239], [54.18848, -2.72548], [54.17546, -2.73554], [54.13766, -2.74228], [54.10789, -2.76458], [54.09064, -2.76717], [54.07829, -2.77151], [54.06563, -2.77121], [54.05246, -2.76502], [54.02807, -2.78095], [54.00238, -2.78034], [53.98949, -2.78113], [53.976, -2.7748], [53.95138, -2.751], [53.93314, -2.75708], [53.91492, -2.7552], [53.8796, -2.74423], [53.86615, -2.74302], [53.85542, -2.73532], [53.83304, -2.7202], [53.8142, -2.70831], [53.80068, -2.69015], [53.79052, -2.66154], [53.78097, -2.64856], [53.76703, -2.6363], [53.75926, -2.63628], [53.74723, -2.64739], [53.73944, -2.65057], [53.73264, -2.64791], [53.71755, -2.65848], [53.706, -2.67604], [53.68541, -2.67972], [53.6655, -2.68948], [53.63854, -2.69221], [53.62199, -2.68636], [53.61062, -2.68707], [53.58904, -2.69411], [53.56809, -2.6991], [53.55449, -2.70221], [53.54618, -2.69819], [53.53216, -2.6983], [53.51617, -2.69273], [53.50818, -2.66838], [53.5012, -2.65901], [53.49195, -2.65591], [53.47832, -2.6407], [53.46382, -2.62129], [53.45212, -2.60014], [53.43875, -2.58163], [53.41019, -2.53021], [53.39543, -2.508], [53.38376, -2.50469], [53.36725, -2.50967], [53.35678, -2.50679], [53.34553, -2.49524], [53.32705, -2.46074], [53.31918, -2.43246], [53.3101, -2.41123], [53.29611, -2.3985], [53.28413, -2.39493], [53.26888, -2.4003], [53.24816, -2.40166], [53.20827, -2.38788], [53.19571, -2.3852], [53.17128, -2.35923], [53.15071, -2.3437], [53.12915, -2.33551], [53.10543, -2.33956], [53.09275, -2.34323], [53.08104, -2.34024], [53.06008, -2.33165], [53.03063, -2.32699], [53.02265, -2.32132], [53.01615, -2.32589], [53.00918, -2.32944], [53.00183, -2.32396], [52.9939, -2.29963], [52.98863, -2.25835], [52.98047, -2.23198], [52.97137, -2.22531], [52.94592, -2.217], [52.92408, -2.20728], [52.91362, -2.19503], [52.89491, -2.18098], [52.87728, -2.1648], [52.84336, -2.15683], [52.83239, -2.14468], [52.82144, -2.15132], [52.81054, -2.15454], [52.79436, -2.15027], [52.78356, -2.12639], [52.77352, -2.11574], [52.76019, -2.10365], [52.73987, -2.09866], [52.6986, -2.1045], [52.68913, -2.10212], [52.69106, -2.11771], [52.68983, -2.13185], [52.67712, -2.13078], [52.65474, -2.12988], [52.6389, -2.12564], [52.62121, -2.1292], [52.60172, -2.12987], [52.59198, -2.13121], [52.58751, -2.13259], [52.58586, -2.12947]],
+              {"bubblingMouseEvents": true, "color": "blue", "dashArray": [10, 20], "dashOffset": null, "delay": 400, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "hardwareAcceleration": false, "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1, "paused": false, "pulseColor": "#FFFFFF", "reverse": false, "smoothFactor": 1.0, "stroke": true, "weight": 2.5}
+        ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+            var marker_040a686877249b9b863bf789d2b4016d = L.marker(
+                [55.8595148, -4.2369425],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_98fe8a22341ed0b819f90f624fc70f00 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_335fd441c6351f58edb5e944180ce15c = $(`<div id="html_335fd441c6351f58edb5e944180ce15c" style="width: 100.0%; height: 100.0%;">Chargeplace Scotland Charging Station</div>`)[0];
+                popup_98fe8a22341ed0b819f90f624fc70f00.setContent(html_335fd441c6351f58edb5e944180ce15c);
+            
+        
+
+        marker_040a686877249b9b863bf789d2b4016d.bindPopup(popup_98fe8a22341ed0b819f90f624fc70f00)
+        ;
+
+        
+    
+    
+            var marker_21589fbd63c3b4637f09dcc54f363041 = L.marker(
+                [55.8586554, -4.2484905],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_9b611a2cab770a7583bf5a44aba9d256 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c04dd877cf787d9b58326ee935041b71 = $(`<div id="html_c04dd877cf787d9b58326ee935041b71" style="width: 100.0%; height: 100.0%;">Chargeplace Scotland Charging Station</div>`)[0];
+                popup_9b611a2cab770a7583bf5a44aba9d256.setContent(html_c04dd877cf787d9b58326ee935041b71);
+            
+        
+
+        marker_21589fbd63c3b4637f09dcc54f363041.bindPopup(popup_9b611a2cab770a7583bf5a44aba9d256)
+        ;
+
+        
+    
+    
+            var marker_4c94499944f96ecb37a8d4145456b32c = L.marker(
+                [55.8696306, -4.2372401],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_da9141a941af9ba229fb5e612ce5a508 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2ab5b9ff1c1ff3af564dd90f12f0a193 = $(`<div id="html_2ab5b9ff1c1ff3af564dd90f12f0a193" style="width: 100.0%; height: 100.0%;">ChargePlace Scotland Charging Station</div>`)[0];
+                popup_da9141a941af9ba229fb5e612ce5a508.setContent(html_2ab5b9ff1c1ff3af564dd90f12f0a193);
+            
+        
+
+        marker_4c94499944f96ecb37a8d4145456b32c.bindPopup(popup_da9141a941af9ba229fb5e612ce5a508)
+        ;
+
+        
+    
+    
+            var marker_208c3bb772f5d345e8efdf40420b2aa0 = L.marker(
+                [55.8577328, -4.2430835],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_b5c0d296f4203c177f0145584c88d507 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2e7e09758a32fbe67445d630dcd7885a = $(`<div id="html_2e7e09758a32fbe67445d630dcd7885a" style="width: 100.0%; height: 100.0%;">ChargePlace Scotland Charging Station</div>`)[0];
+                popup_b5c0d296f4203c177f0145584c88d507.setContent(html_2e7e09758a32fbe67445d630dcd7885a);
+            
+        
+
+        marker_208c3bb772f5d345e8efdf40420b2aa0.bindPopup(popup_b5c0d296f4203c177f0145584c88d507)
+        ;
+
+        
+    
+    
+            var marker_ea2fd09be0161013b7b2b50d3cc6cd2b = L.marker(
+                [55.8605874, -4.2485084],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_9dd19bbee6d982e7f8f455354e8eae38 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b9eb5f09286dca7197eec5b790c33d0f = $(`<div id="html_b9eb5f09286dca7197eec5b790c33d0f" style="width: 100.0%; height: 100.0%;">Chargeplace Scotland Charging Station</div>`)[0];
+                popup_9dd19bbee6d982e7f8f455354e8eae38.setContent(html_b9eb5f09286dca7197eec5b790c33d0f);
+            
+        
+
+        marker_ea2fd09be0161013b7b2b50d3cc6cd2b.bindPopup(popup_9dd19bbee6d982e7f8f455354e8eae38)
+        ;
+
+        
+    
+    
+            var marker_dfa717c75c6f4f268e2ab08c292aa6c2 = L.marker(
+                [55.8585127, -4.2253649],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_1727bf5b70a467c7a89591d685dfdc0c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_726bf1159e55c6dcbbca38219a68d7b7 = $(`<div id="html_726bf1159e55c6dcbbca38219a68d7b7" style="width: 100.0%; height: 100.0%;">PodPoint Charging Station</div>`)[0];
+                popup_1727bf5b70a467c7a89591d685dfdc0c.setContent(html_726bf1159e55c6dcbbca38219a68d7b7);
+            
+        
+
+        marker_dfa717c75c6f4f268e2ab08c292aa6c2.bindPopup(popup_1727bf5b70a467c7a89591d685dfdc0c)
+        ;
+
+        
+    
+    
+            var marker_f65c265a038241b38a51a17becbb6a79 = L.marker(
+                [55.8575573, -4.244898399999999],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_3c2f867e33fecff85c61d7fe71d47ed8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_148539b9f6d1b814c914ce63f5f3fcd6 = $(`<div id="html_148539b9f6d1b814c914ce63f5f3fcd6" style="width: 100.0%; height: 100.0%;">EB charging Charging Station</div>`)[0];
+                popup_3c2f867e33fecff85c61d7fe71d47ed8.setContent(html_148539b9f6d1b814c914ce63f5f3fcd6);
+            
+        
+
+        marker_f65c265a038241b38a51a17becbb6a79.bindPopup(popup_3c2f867e33fecff85c61d7fe71d47ed8)
+        ;
+
+        
+    
+    
+            var marker_82b278ac76d4d4ad757766383c454aa6 = L.marker(
+                [55.8677708, -4.254760699999999],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_7daf0f7fb57c225f006540dd6577836a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_04448d87d4039a20be1e442f68675bb5 = $(`<div id="html_04448d87d4039a20be1e442f68675bb5" style="width: 100.0%; height: 100.0%;">ChargePlace Scotland Charging Station</div>`)[0];
+                popup_7daf0f7fb57c225f006540dd6577836a.setContent(html_04448d87d4039a20be1e442f68675bb5);
+            
+        
+
+        marker_82b278ac76d4d4ad757766383c454aa6.bindPopup(popup_7daf0f7fb57c225f006540dd6577836a)
+        ;
+
+        
+    
+    
+            var marker_c18ff55ce2afe23538d9f093ef71f9bf = L.marker(
+                [55.8603916, -4.2461742],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_c1f47254a0aeed57dfce7eaa62a45ad1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_44c6bdd42c8be9904fbc99222b8d7a40 = $(`<div id="html_44c6bdd42c8be9904fbc99222b8d7a40" style="width: 100.0%; height: 100.0%;">ChargePlace Scotland Charging Station</div>`)[0];
+                popup_c1f47254a0aeed57dfce7eaa62a45ad1.setContent(html_44c6bdd42c8be9904fbc99222b8d7a40);
+            
+        
+
+        marker_c18ff55ce2afe23538d9f093ef71f9bf.bindPopup(popup_c1f47254a0aeed57dfce7eaa62a45ad1)
+        ;
+
+        
+    
+    
+            var marker_83ab56b0117976ab12954a2d0567b5f4 = L.marker(
+                [55.8620165, -4.2485454],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_6134cdad0ce71e3012365d4aa640f3e5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d9d2d6605c9fb0b303436303ae2e1b06 = $(`<div id="html_d9d2d6605c9fb0b303436303ae2e1b06" style="width: 100.0%; height: 100.0%;">ChargePlace Scotland Charging Station</div>`)[0];
+                popup_6134cdad0ce71e3012365d4aa640f3e5.setContent(html_d9d2d6605c9fb0b303436303ae2e1b06);
+            
+        
+
+        marker_83ab56b0117976ab12954a2d0567b5f4.bindPopup(popup_6134cdad0ce71e3012365d4aa640f3e5)
+        ;
+
+        
+    
+    
+            var marker_f7b0c7f733ebc4d40d3f4145b9995abb = L.marker(
+                [55.8692916, -4.254608300000001],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_a96c2f2f87dfe73e33c6deb0da17cb4c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_feba6eb6ee5b569574b6ea31775c1f98 = $(`<div id="html_feba6eb6ee5b569574b6ea31775c1f98" style="width: 100.0%; height: 100.0%;">Nissan Charging Station</div>`)[0];
+                popup_a96c2f2f87dfe73e33c6deb0da17cb4c.setContent(html_feba6eb6ee5b569574b6ea31775c1f98);
+            
+        
+
+        marker_f7b0c7f733ebc4d40d3f4145b9995abb.bindPopup(popup_a96c2f2f87dfe73e33c6deb0da17cb4c)
+        ;
+
+        
+    
+    
+            var marker_54c2b676f00b31cb4ead08d02cadbedb = L.marker(
+                [55.8762282, -4.232872],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_2acdbade07099e27a27d02a6ca69995c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_02844df4a0ddd930a05d00246742785d = $(`<div id="html_02844df4a0ddd930a05d00246742785d" style="width: 100.0%; height: 100.0%;">ChargePlace Scotland Charging Station</div>`)[0];
+                popup_2acdbade07099e27a27d02a6ca69995c.setContent(html_02844df4a0ddd930a05d00246742785d);
+            
+        
+
+        marker_54c2b676f00b31cb4ead08d02cadbedb.bindPopup(popup_2acdbade07099e27a27d02a6ca69995c)
+        ;
+
+        
+    
+    
+            var marker_e283547388a40633676239ef17d5aa85 = L.marker(
+                [55.8615229, -4.2442696],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_65d2c28f57eea5a1b3c339f68a425bc1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9f224b0de94d8efd044b32636f5bdbe7 = $(`<div id="html_9f224b0de94d8efd044b32636f5bdbe7" style="width: 100.0%; height: 100.0%;">bp pulse Charging Station</div>`)[0];
+                popup_65d2c28f57eea5a1b3c339f68a425bc1.setContent(html_9f224b0de94d8efd044b32636f5bdbe7);
+            
+        
+
+        marker_e283547388a40633676239ef17d5aa85.bindPopup(popup_65d2c28f57eea5a1b3c339f68a425bc1)
+        ;
+
+        
+    
+    
+            var marker_8ddf268a6f0968b86076a059c4703ce0 = L.marker(
+                [55.8660401, -4.2512302],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_9597b2dca5005809112d0f1e9dd1e39a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e7e27c73cded73436b9a7b31b59dd1f1 = $(`<div id="html_e7e27c73cded73436b9a7b31b59dd1f1" style="width: 100.0%; height: 100.0%;">ChargePlace Scotland Charging Station</div>`)[0];
+                popup_9597b2dca5005809112d0f1e9dd1e39a.setContent(html_e7e27c73cded73436b9a7b31b59dd1f1);
+            
+        
+
+        marker_8ddf268a6f0968b86076a059c4703ce0.bindPopup(popup_9597b2dca5005809112d0f1e9dd1e39a)
+        ;
+
+        
+    
+    
+            var marker_54f98fda32b4ca0c23655ca7a4940d71 = L.marker(
+                [55.86353949999999, -4.241316299999999],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_6d47a717c6c95efee292a5c3251e4924 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_06467b66e93c39fcb94fbd37b4f86378 = $(`<div id="html_06467b66e93c39fcb94fbd37b4f86378" style="width: 100.0%; height: 100.0%;">ChargePlace Scotland Charging Station</div>`)[0];
+                popup_6d47a717c6c95efee292a5c3251e4924.setContent(html_06467b66e93c39fcb94fbd37b4f86378);
+            
+        
+
+        marker_54f98fda32b4ca0c23655ca7a4940d71.bindPopup(popup_6d47a717c6c95efee292a5c3251e4924)
+        ;
+
+        
+    
+    
+            var marker_0e554429ad9f6da08de1922d6592193d = L.marker(
+                [55.859444, -4.244937],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_94bebed30db47d98f04e42d2d899d62f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_64e09b3344f45b66c44e35fa106df539 = $(`<div id="html_64e09b3344f45b66c44e35fa106df539" style="width: 100.0%; height: 100.0%;">ChargePlace Scotland Charging Station</div>`)[0];
+                popup_94bebed30db47d98f04e42d2d899d62f.setContent(html_64e09b3344f45b66c44e35fa106df539);
+            
+        
+
+        marker_0e554429ad9f6da08de1922d6592193d.bindPopup(popup_94bebed30db47d98f04e42d2d899d62f)
+        ;
+
+        
+    
+    
+            var marker_acafc296601c5568acca763dc46fbcf6 = L.marker(
+                [55.87420419999999, -4.2456909],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_81f7dd9c9fd5e2a05729f20834fe3b6e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ae846a94e231deeb544cfdcb45c2346b = $(`<div id="html_ae846a94e231deeb544cfdcb45c2346b" style="width: 100.0%; height: 100.0%;">bp pulse Charging Station</div>`)[0];
+                popup_81f7dd9c9fd5e2a05729f20834fe3b6e.setContent(html_ae846a94e231deeb544cfdcb45c2346b);
+            
+        
+
+        marker_acafc296601c5568acca763dc46fbcf6.bindPopup(popup_81f7dd9c9fd5e2a05729f20834fe3b6e)
+        ;
+
+        
+    
+    
+            var marker_c32832251f0f673026b8a20131ccd018 = L.marker(
+                [55.856015, -4.253781],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_944bb4654d3f081c5e783a8d4b69f3d0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_18fd8151f43b1659fbda92b006f7cdd1 = $(`<div id="html_18fd8151f43b1659fbda92b006f7cdd1" style="width: 100.0%; height: 100.0%;">EB charging Charging Station</div>`)[0];
+                popup_944bb4654d3f081c5e783a8d4b69f3d0.setContent(html_18fd8151f43b1659fbda92b006f7cdd1);
+            
+        
+
+        marker_c32832251f0f673026b8a20131ccd018.bindPopup(popup_944bb4654d3f081c5e783a8d4b69f3d0)
+        ;
+
+        
+    
+    
+            var marker_277ef36c103a3f2ad7f2ce008a21aeda = L.marker(
+                [55.86000079999999, -4.2388498],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_0eb2717735f9b334ddc425126557fba0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5a8ef8656733daa337e7dc175e141b51 = $(`<div id="html_5a8ef8656733daa337e7dc175e141b51" style="width: 100.0%; height: 100.0%;">ChargePlace Scotland Charging Station</div>`)[0];
+                popup_0eb2717735f9b334ddc425126557fba0.setContent(html_5a8ef8656733daa337e7dc175e141b51);
+            
+        
+
+        marker_277ef36c103a3f2ad7f2ce008a21aeda.bindPopup(popup_0eb2717735f9b334ddc425126557fba0)
+        ;
+
+        
+    
+    
+            var marker_188e0bee201fe85fe99412cfe1ded662 = L.marker(
+                [55.8748368, -4.2508288],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_6ec1bb4e379afd55dbd93c6922ce622d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c6d7195c428910ac1bcc71e7c17222af = $(`<div id="html_c6d7195c428910ac1bcc71e7c17222af" style="width: 100.0%; height: 100.0%;">ChargePlace Scotland Charging Station</div>`)[0];
+                popup_6ec1bb4e379afd55dbd93c6922ce622d.setContent(html_c6d7195c428910ac1bcc71e7c17222af);
+            
+        
+
+        marker_188e0bee201fe85fe99412cfe1ded662.bindPopup(popup_6ec1bb4e379afd55dbd93c6922ce622d)
+        ;
+
+        
+    
+    
+            var marker_c32dcd4e76dd53fcc0f81ea9df6365e8 = L.marker(
+                [55.8276844, -4.0853375],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_eb92e8ac5b8f4c23ef79b9bc2c073091 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_aa8b11b9b1d07940337bf42f0b136dcb = $(`<div id="html_aa8b11b9b1d07940337bf42f0b136dcb" style="width: 100.0%; height: 100.0%;">ChargePlace Scotland Charging Station</div>`)[0];
+                popup_eb92e8ac5b8f4c23ef79b9bc2c073091.setContent(html_aa8b11b9b1d07940337bf42f0b136dcb);
+            
+        
+
+        marker_c32dcd4e76dd53fcc0f81ea9df6365e8.bindPopup(popup_eb92e8ac5b8f4c23ef79b9bc2c073091)
+        ;
+
+        
+    
+    
+            var marker_92dda73a55aba4dab160eec1e34b02b9 = L.marker(
+                [55.82370359999999, -4.087310899999999],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_fa9057fd94b76e04217581ec492175c5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f09a1e1c0996df476d0faef9b741f53e = $(`<div id="html_f09a1e1c0996df476d0faef9b741f53e" style="width: 100.0%; height: 100.0%;">ChargePlace Scotland Charging Station</div>`)[0];
+                popup_fa9057fd94b76e04217581ec492175c5.setContent(html_f09a1e1c0996df476d0faef9b741f53e);
+            
+        
+
+        marker_92dda73a55aba4dab160eec1e34b02b9.bindPopup(popup_fa9057fd94b76e04217581ec492175c5)
+        ;
+
+        
+    
+    
+            var marker_2ea007666915f329c6bbabaa3b3ff208 = L.marker(
+                [55.8234283, -4.086583],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_73cda3bd477a95449292c99986b70fcf = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_97c90212c81bdc683c0ad23fe96e6ea0 = $(`<div id="html_97c90212c81bdc683c0ad23fe96e6ea0" style="width: 100.0%; height: 100.0%;">bp pulse Charging Station</div>`)[0];
+                popup_73cda3bd477a95449292c99986b70fcf.setContent(html_97c90212c81bdc683c0ad23fe96e6ea0);
+            
+        
+
+        marker_2ea007666915f329c6bbabaa3b3ff208.bindPopup(popup_73cda3bd477a95449292c99986b70fcf)
+        ;
+
+        
+    
+    
+            var marker_9bd2678fe92f585e20a32dcc604e766f = L.marker(
+                [55.8327, -4.11426],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_450b6ad3ddbfd21c0eead695e3cf8602 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a03481bc161215f77c7d5db99f1e6e8d = $(`<div id="html_a03481bc161215f77c7d5db99f1e6e8d" style="width: 100.0%; height: 100.0%;">ChargePlace Scotland Charging Station</div>`)[0];
+                popup_450b6ad3ddbfd21c0eead695e3cf8602.setContent(html_a03481bc161215f77c7d5db99f1e6e8d);
+            
+        
+
+        marker_9bd2678fe92f585e20a32dcc604e766f.bindPopup(popup_450b6ad3ddbfd21c0eead695e3cf8602)
+        ;
+
+        
+    
+    
+            var marker_5715a4a8c42c63d7261b765e6e7eafb3 = L.marker(
+                [55.81944, -4.08134],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_5f027baf399be6a143f0fb51edfd32eb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_943e50cdbbd8c15ec898cc28a2d51069 = $(`<div id="html_943e50cdbbd8c15ec898cc28a2d51069" style="width: 100.0%; height: 100.0%;">Chargeplace Scotland Charging Station</div>`)[0];
+                popup_5f027baf399be6a143f0fb51edfd32eb.setContent(html_943e50cdbbd8c15ec898cc28a2d51069);
+            
+        
+
+        marker_5715a4a8c42c63d7261b765e6e7eafb3.bindPopup(popup_5f027baf399be6a143f0fb51edfd32eb)
+        ;
+
+        
+    
+    
+            var marker_43ae989a67b0f89da0be897168df219c = L.marker(
+                [55.8204357, -4.0813251],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_a589b03fa9a33c8ffd3da08daaa18974 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bc6772f62988855b26e708226131d965 = $(`<div id="html_bc6772f62988855b26e708226131d965" style="width: 100.0%; height: 100.0%;">Charge Your Car,ChargePlace Scotland Charging Station</div>`)[0];
+                popup_a589b03fa9a33c8ffd3da08daaa18974.setContent(html_bc6772f62988855b26e708226131d965);
+            
+        
+
+        marker_43ae989a67b0f89da0be897168df219c.bindPopup(popup_a589b03fa9a33c8ffd3da08daaa18974)
+        ;
+
+        
+    
+    
+            var marker_16e69d271351e8871154293624736864 = L.marker(
+                [55.82751, -4.08435],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_6256f20bbaf2502f7bb8a5bb918f6dfd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8cb211e1c9dee859e48a771a2bbac939 = $(`<div id="html_8cb211e1c9dee859e48a771a2bbac939" style="width: 100.0%; height: 100.0%;">ChargePlace Scotland Charging Station</div>`)[0];
+                popup_6256f20bbaf2502f7bb8a5bb918f6dfd.setContent(html_8cb211e1c9dee859e48a771a2bbac939);
+            
+        
+
+        marker_16e69d271351e8871154293624736864.bindPopup(popup_6256f20bbaf2502f7bb8a5bb918f6dfd)
+        ;
+
+        
+    
+    
+            var marker_264c245b4be01c6276c0fdd494793c91 = L.marker(
+                [55.4923868, -3.6917928],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_3af86686d79f0ef261337091a7e91541 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c29d1d1033ac774d2a33c90844893d9e = $(`<div id="html_c29d1d1033ac774d2a33c90844893d9e" style="width: 100.0%; height: 100.0%;">Chargeplace Scotland Charging Station</div>`)[0];
+                popup_3af86686d79f0ef261337091a7e91541.setContent(html_c29d1d1033ac774d2a33c90844893d9e);
+            
+        
+
+        marker_264c245b4be01c6276c0fdd494793c91.bindPopup(popup_3af86686d79f0ef261337091a7e91541)
+        ;
+
+        
+    
+    
+            var marker_9b23f6747cc9a1aa9838249d1b527bae = L.marker(
+                [55.5077817, -3.6948841],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_097521d3b36e6edc5936313811068049 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cfcc9ddb590de96f2a220efb1f35cce9 = $(`<div id="html_cfcc9ddb590de96f2a220efb1f35cce9" style="width: 100.0%; height: 100.0%;">Applegreen Electric Charging Station</div>`)[0];
+                popup_097521d3b36e6edc5936313811068049.setContent(html_cfcc9ddb590de96f2a220efb1f35cce9);
+            
+        
+
+        marker_9b23f6747cc9a1aa9838249d1b527bae.bindPopup(popup_097521d3b36e6edc5936313811068049)
+        ;
+
+        
+    
+    
+            var marker_cf0c2485b6fea6c46465e5709337d2c5 = L.marker(
+                [55.507943, -3.695081],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_4ba1a913b396d38ddb6ba05e6585ee61 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1ec3067567d05fdab3d21b997b9336e0 = $(`<div id="html_1ec3067567d05fdab3d21b997b9336e0" style="width: 100.0%; height: 100.0%;">Tesla Supercharger</div>`)[0];
+                popup_4ba1a913b396d38ddb6ba05e6585ee61.setContent(html_1ec3067567d05fdab3d21b997b9336e0);
+            
+        
+
+        marker_cf0c2485b6fea6c46465e5709337d2c5.bindPopup(popup_4ba1a913b396d38ddb6ba05e6585ee61)
+        ;
+
+        
+    
+    
+            var marker_fd3f8184d2acba5ccd3263e07ddd1763 = L.marker(
+                [55.0009239, -3.0658959],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_9ff172b96ec6e50b5000c1e61247cec0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c42ad4cc6a1551a0a038d9db34650baa = $(`<div id="html_c42ad4cc6a1551a0a038d9db34650baa" style="width: 100.0%; height: 100.0%;">bp pulse Charging Station</div>`)[0];
+                popup_9ff172b96ec6e50b5000c1e61247cec0.setContent(html_c42ad4cc6a1551a0a038d9db34650baa);
+            
+        
+
+        marker_fd3f8184d2acba5ccd3263e07ddd1763.bindPopup(popup_9ff172b96ec6e50b5000c1e61247cec0)
+        ;
+
+        
+    
+    
+            var marker_7257decf556ce4e298b2206e29306d2c = L.marker(
+                [54.99343940000001, -3.0673213],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_5ecbcc8d06f90fbacf05a90f53efa593 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fc4e455382e087881b313007e6e34e6e = $(`<div id="html_fc4e455382e087881b313007e6e34e6e" style="width: 100.0%; height: 100.0%;">ChargePlace Scotland Charging Station</div>`)[0];
+                popup_5ecbcc8d06f90fbacf05a90f53efa593.setContent(html_fc4e455382e087881b313007e6e34e6e);
+            
+        
+
+        marker_7257decf556ce4e298b2206e29306d2c.bindPopup(popup_5ecbcc8d06f90fbacf05a90f53efa593)
+        ;
+
+        
+    
+    
+            var marker_783059638eeb9ffa52d7476fc00134e7 = L.marker(
+                [55.0041472, -3.06597],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_9095bef82c47cf9c686b76c5a8cea6e3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c6340d393e5d1d4579836a2bc240c7de = $(`<div id="html_c6340d393e5d1d4579836a2bc240c7de" style="width: 100.0%; height: 100.0%;">bp pulse Charging Station</div>`)[0];
+                popup_9095bef82c47cf9c686b76c5a8cea6e3.setContent(html_c6340d393e5d1d4579836a2bc240c7de);
+            
+        
+
+        marker_783059638eeb9ffa52d7476fc00134e7.bindPopup(popup_9095bef82c47cf9c686b76c5a8cea6e3)
+        ;
+
+        
+    
+    
+            var marker_2ff8e3011adb5b1de9b860fe83020399 = L.marker(
+                [53.9625964, -2.7599654],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_2029207ce62553b759ee3bdfb45e9f72 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b6f4fc0dbd6d3b052752bb8585c63dd1 = $(`<div id="html_b6f4fc0dbd6d3b052752bb8585c63dd1" style="width: 100.0%; height: 100.0%;">GRIDSERVE Charging Station</div>`)[0];
+                popup_2029207ce62553b759ee3bdfb45e9f72.setContent(html_b6f4fc0dbd6d3b052752bb8585c63dd1);
+            
+        
+
+        marker_2ff8e3011adb5b1de9b860fe83020399.bindPopup(popup_2029207ce62553b759ee3bdfb45e9f72)
+        ;
+
+        
+    
+    
+            var marker_409040b79abc0495e190af3a72f8ac3f = L.marker(
+                [53.973, -2.7514004],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_8a934ac6ff04f4053ba5a720df470d22 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_444ae5dd304cf6098d811c87d4e313f9 = $(`<div id="html_444ae5dd304cf6098d811c87d4e313f9" style="width: 100.0%; height: 100.0%;">Fuuse Charging Station</div>`)[0];
+                popup_8a934ac6ff04f4053ba5a720df470d22.setContent(html_444ae5dd304cf6098d811c87d4e313f9);
+            
+        
+
+        marker_409040b79abc0495e190af3a72f8ac3f.bindPopup(popup_8a934ac6ff04f4053ba5a720df470d22)
+        ;
+
+        
+    
+    
+            var marker_41f64629212878604245fce48c12e454 = L.marker(
+                [53.9725213, -2.7495486],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_3a9f90ff64b00fc54540f17477ecb66a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fcb607e7ee777dfd20f78e4bb6e8a9a8 = $(`<div id="html_fcb607e7ee777dfd20f78e4bb6e8a9a8" style="width: 100.0%; height: 100.0%;">Electric Vehicle Charging Station</div>`)[0];
+                popup_3a9f90ff64b00fc54540f17477ecb66a.setContent(html_fcb607e7ee777dfd20f78e4bb6e8a9a8);
+            
+        
+
+        marker_41f64629212878604245fce48c12e454.bindPopup(popup_3a9f90ff64b00fc54540f17477ecb66a)
+        ;
+
+        
+    
+    
+            var marker_36f4c8ca4f325859d83db577b3b5a140 = L.marker(
+                [53.7305375, -2.6513103],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_66c6c3e6dd86604a8c3399d9e0f28966 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0e91ee07ad8bf620431457d71398161f = $(`<div id="html_0e91ee07ad8bf620431457d71398161f" style="width: 100.0%; height: 100.0%;">EB Charging Station</div>`)[0];
+                popup_66c6c3e6dd86604a8c3399d9e0f28966.setContent(html_0e91ee07ad8bf620431457d71398161f);
+            
+        
+
+        marker_36f4c8ca4f325859d83db577b3b5a140.bindPopup(popup_66c6c3e6dd86604a8c3399d9e0f28966)
+        ;
+
+        
+    
+    
+            var marker_8fa2a1261c6546febd4a3965fb034c93 = L.marker(
+                [53.7296674, -2.6666832],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_5e5c4315630307ca1feb66aa8d37ef7a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3a36d75bf2571fd8fa3aa9dec7e976d9 = $(`<div id="html_3a36d75bf2571fd8fa3aa9dec7e976d9" style="width: 100.0%; height: 100.0%;">NewMotion Charging Station</div>`)[0];
+                popup_5e5c4315630307ca1feb66aa8d37ef7a.setContent(html_3a36d75bf2571fd8fa3aa9dec7e976d9);
+            
+        
+
+        marker_8fa2a1261c6546febd4a3965fb034c93.bindPopup(popup_5e5c4315630307ca1feb66aa8d37ef7a)
+        ;
+
+        
+    
+    
+            var marker_1845eaeca224e559661201a6834099a6 = L.marker(
+                [53.7296241, -2.6665572],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_4da3c5cc5654661076969c0a69ba1318 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_eea0626cab89b86a225c72a5d9f79dcf = $(`<div id="html_eea0626cab89b86a225c72a5d9f79dcf" style="width: 100.0%; height: 100.0%;">Hubsta Charging Station</div>`)[0];
+                popup_4da3c5cc5654661076969c0a69ba1318.setContent(html_eea0626cab89b86a225c72a5d9f79dcf);
+            
+        
+
+        marker_1845eaeca224e559661201a6834099a6.bindPopup(popup_4da3c5cc5654661076969c0a69ba1318)
+        ;
+
+        
+    
+    
+            var marker_f194aead6aafa23972b3ae677774f1d6 = L.marker(
+                [53.7296112, -2.6677891],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_2935c0d23fc6c17121deb5bd0e76c3b4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_70b912d58dcbbacfa7b916a7b93f2755 = $(`<div id="html_70b912d58dcbbacfa7b916a7b93f2755" style="width: 100.0%; height: 100.0%;">Hubsta Charging Station</div>`)[0];
+                popup_2935c0d23fc6c17121deb5bd0e76c3b4.setContent(html_70b912d58dcbbacfa7b916a7b93f2755);
+            
+        
+
+        marker_f194aead6aafa23972b3ae677774f1d6.bindPopup(popup_2935c0d23fc6c17121deb5bd0e76c3b4)
+        ;
+
+        
+    
+    
+            var marker_35acfcb654e893add6149b9cbb365b73 = L.marker(
+                [53.0687624, -2.3358435],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_3f47ad7a4e1a7605e6f492cb9f544bba = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_81153ff608e65f63df95330a9e686f69 = $(`<div id="html_81153ff608e65f63df95330a9e686f69" style="width: 100.0%; height: 100.0%;">Shell Recharge Charging Station</div>`)[0];
+                popup_3f47ad7a4e1a7605e6f492cb9f544bba.setContent(html_81153ff608e65f63df95330a9e686f69);
+            
+        
+
+        marker_35acfcb654e893add6149b9cbb365b73.bindPopup(popup_3f47ad7a4e1a7605e6f492cb9f544bba)
+        ;
+
+        
+    
+    
+            var marker_c8a127840f67fa0e66e77902596377bd = L.marker(
+                [52.8838684, -2.1706609],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_4f9b7026b3080b540a33177024a192b7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a8ef5cb8673b8a131a8e370d97dc0601 = $(`<div id="html_a8ef5cb8673b8a131a8e370d97dc0601" style="width: 100.0%; height: 100.0%;">bp pulse Charging Station</div>`)[0];
+                popup_4f9b7026b3080b540a33177024a192b7.setContent(html_a8ef5cb8673b8a131a8e370d97dc0601);
+            
+        
+
+        marker_c8a127840f67fa0e66e77902596377bd.bindPopup(popup_4f9b7026b3080b540a33177024a192b7)
+        ;
+
+        
+    
+    
+            var marker_3838e3c0198a53ae473a1eb9d48036f5 = L.marker(
+                [52.8726718, -2.1604716],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_daac9b3e1b98fd5ac8065ac0541611f9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a9327e798435dff72f8f7237bddf941f = $(`<div id="html_a9327e798435dff72f8f7237bddf941f" style="width: 100.0%; height: 100.0%;">GRIDSERVE Charging Station</div>`)[0];
+                popup_daac9b3e1b98fd5ac8065ac0541611f9.setContent(html_a9327e798435dff72f8f7237bddf941f);
+            
+        
+
+        marker_3838e3c0198a53ae473a1eb9d48036f5.bindPopup(popup_daac9b3e1b98fd5ac8065ac0541611f9)
+        ;
+
+        
+    
+    
+            var marker_c47ab69d2ac5e4a367745ec26ec7b014 = L.marker(
+                [52.8861628, -2.1729831],
+                {}
+            ).addTo(map_6011cc33a52235e4fb03675ed94f9b29);
+        
+    
+        var popup_0c724efeca3448c5b4462dda1e6ce038 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3e8fca54ef7154e88b10f844aafa7e06 = $(`<div id="html_3e8fca54ef7154e88b10f844aafa7e06" style="width: 100.0%; height: 100.0%;">GRIDSERVE Charging Station</div>`)[0];
+                popup_0c724efeca3448c5b4462dda1e6ce038.setContent(html_3e8fca54ef7154e88b10f844aafa7e06);
+            
+        
+
+        marker_c47ab69d2ac5e4a367745ec26ec7b014.bindPopup(popup_0c724efeca3448c5b4462dda1e6ce038)
+        ;
+
+        
+    
+</script>
+</html>
