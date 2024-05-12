@@ -82,7 +82,12 @@ Check out some of my featured projects, github links to projects are attached wi
 - **University:** University of Stirling (UK)
   - **Degree:** MSc in Artificial Intelligence (with distinction)
     - November 2023
-  - **Relevant Courses:** Statistics for Data Science, Representing and Manipulating data, Machine Learning, Deep Learning, Natural Language Processing, Stochastic Processes, Optimisation.
+  - **Relevant Courses:**
+    - Statistics for Data Science
+    - Representing and Manipulating data
+    - Machine Learning, Deep Learning
+    - Natural Language Processing
+    - Stochastic Processes, Optimisation.
 
 ### Skills
 - **Programming Languages:** Python, R, SQL
