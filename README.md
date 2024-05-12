@@ -33,7 +33,7 @@ Check out some of my featured projects, github links to projects are attached wi
 
 ### Project 2: Deep Learning Model for Satellite Image Classification
 
-<img src="/Images/cnn.png" width="300" height="300"> <img src="/Images/stirling_car.png" width="350" height="300">
+<img src="/Images/cnn.png" width="300" height="300"><img src="/Images/stirling_car.png" width="300" height="300">
 
 - **Description:** Built a deep learning model for satellite image classification of cars and trees.
 - **Technologies Used:** Python, Deep Learning, Convolutional Neural Networks (CNNs).
