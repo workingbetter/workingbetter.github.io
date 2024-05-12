@@ -20,7 +20,7 @@ Check out some of my featured projects, github links to projects are attached wi
 
 <a href="/Images/map_with_stations.html"><img src="/Images/maps.png" alt="Extracted EV Charging Stations from Glasgow to Wolverhampton" width="300"></a>
 
-Extracted EV Charging Stations from Stirling to Birmingham
+[Extracted EV Charging Stations from Stirling to Birmingham](/Images/map_with_stations.html)
 
 - **Description:** Developed a predictive model to forecast the impact of road conditions on Electric Vehicles (EVs) using AI algorithms.
 - **Technologies Used:** Python, Machine Learning, Deep Learning, Genetic Algorithms, Keras, Google API.
