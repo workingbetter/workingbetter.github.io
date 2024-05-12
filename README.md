@@ -1,4 +1,5 @@
-![](/Images/profile.jpg)
+<img src="/Images/profile.jpg" width="200" height="100">
+
 # Junior AI, Data Scientist
 Michael's portfolio
 
