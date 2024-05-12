@@ -54,8 +54,8 @@ Check out some of my featured projects, github links to projects are attached wi
   - Cleaned and extracted metadata from the books.
   - Performed sentiment analysis on selected books.
   - Conducted exploratory and descriptive data analysis to gain insights into the text data.
-- **Repository:** [GitHub](link_to_repository)
-
+- **Repository:** [GitHub](https://github.com/workingbetter/NLP_project_gutenberg)
+- **PDF File:** [PDF](https://github.com/workingbetter/NLP_project_gutenberg/blob/main/NLP.pdf)
 ### Additional Projects
 
 - **Project Title:** [Brief description of the project]
