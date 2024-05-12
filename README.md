@@ -1,3 +1,4 @@
+![](/images/positions_by_state.png)
 # Junior AI, Data Scientist
 Michael's portfolio
 
