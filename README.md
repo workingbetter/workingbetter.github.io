@@ -34,7 +34,7 @@ Check out some of my featured projects, github links to projects are attached wi
 
 ### Project 2: Deep Learning Model for Satellite Image Classification
 
-![Satellite Image](satellite_image.png)
+<img src="/Images/cnn.png" width="300" height="300"><img src="/Images/stirling_car.png" width="300" height="300">
 
 - **Description:** Built a deep learning model for satellite image classification of cars and trees.
 - **Technologies Used:** Python, Deep Learning, Convolutional Neural Networks (CNNs).
@@ -42,8 +42,8 @@ Check out some of my featured projects, github links to projects are attached wi
   - Created a dataset containing 2,400 manually labeled images from Google Earth.
   - Applied data augmentation techniques to enhance model performance.
   - Tested various CNN architectures based on their past performance on image classification tasks.
-- **Repository:** [GitHub](link_to_repository)
-
+- **Repository:** [GitHub](https://github.com/workingbetter/deep-learning-Image-classification-by-Michael-Bogale)
+- **PDF File:** [PDF](https://github.com/workingbetter/deep-learning-Image-classification-by-Michael-Bogale/blob/main/Classification_final_report.pdf)
 ### Project 3: NLP on Gutenberg Books
 
 ![NLP](nlp.png)
