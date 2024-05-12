@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_b77c891e36bc892a2f3a943c020e5749 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdn.jsdelivr.net/npm/leaflet-ant-path@1.1.2/dist/leaflet-ant-path.min.js"></script>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_b77c891e36bc892a2f3a943c020e5749" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_b77c891e36bc892a2f3a943c020e5749 = L.map(
+                "map_b77c891e36bc892a2f3a943c020e5749",
+                {
+                    center: [54.30623235, -2.91011605],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 6,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_f3952cfc007c7dc9ac3dd5f8279c3071 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_b77c891e36bc892a2f3a943c020e5749);
+        
+    
+            var marker_d4fa3735be6d6b7eee04314ec48292da = L.marker(
+                [56.1304555, -3.9346026],
+                {}
+            ).addTo(map_b77c891e36bc892a2f3a943c020e5749);
+        
+    
+            var icon_7bf2cefa9c2bfb02758091b203858999 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_d4fa3735be6d6b7eee04314ec48292da.setIcon(icon_7bf2cefa9c2bfb02758091b203858999);
+        
+    
+        var popup_cd589fb5f9681ac8feab4adea4d082db = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_16defdb75ab12f7c070f691a1cdd6a1a = $(`<div id="html_16defdb75ab12f7c070f691a1cdd6a1a" style="width: 100.0%; height: 100.0%;">Start</div>`)[0];
+                popup_cd589fb5f9681ac8feab4adea4d082db.setContent(html_16defdb75ab12f7c070f691a1cdd6a1a);
+            
+        
+
+        marker_d4fa3735be6d6b7eee04314ec48292da.bindPopup(popup_cd589fb5f9681ac8feab4adea4d082db)
+        ;
+
+        
+    
+    
+            var marker_cfb74e409993123eb865853a5742190c = L.marker(
+                [52.4820092, -1.8856295],
+                {}
+            ).addTo(map_b77c891e36bc892a2f3a943c020e5749);
+        
+    
+            var icon_1b89f65613d67f6a6adf607cffc043a6 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_cfb74e409993123eb865853a5742190c.setIcon(icon_1b89f65613d67f6a6adf607cffc043a6);
+        
+    
+        var popup_217b30c133a304cf84cfc9d2ce9dc190 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cb7301949d5259a761b58b28e7e73462 = $(`<div id="html_cb7301949d5259a761b58b28e7e73462" style="width: 100.0%; height: 100.0%;">End</div>`)[0];
+                popup_217b30c133a304cf84cfc9d2ce9dc190.setContent(html_cb7301949d5259a761b58b28e7e73462);
+            
+        
+
+        marker_cfb74e409993123eb865853a5742190c.bindPopup(popup_217b30c133a304cf84cfc9d2ce9dc190)
+        ;
+
+        
+    
+    
+            ant_path_415d2083baa7c69f22535a8961baadbc = L.polyline.antPath(
+              [[56.13051, -3.93441], [56.1247, -3.95433], [56.13153, -3.96539], [56.12521, -3.97078], [56.11081, -3.96285], [56.09376, -3.949], [56.08061, -3.93297], [56.0661, -3.92221], [56.04981, -3.91998], [56.04392, -3.91743], [56.03476, -3.92192], [56.01876, -3.9218], [56.004, -3.91591], [55.99609, -3.93424], [55.99096, -3.94388], [55.98308, -3.94356], [55.97126, -3.95969], [55.9468, -4.0075], [55.92566, -4.04574], [55.91863, -4.06333], [55.90186, -4.06796], [55.87873, -4.08068], [55.86466, -4.08135], [55.84967, -4.09125], [55.83645, -4.0976], [55.82865, -4.09214], [55.81865, -4.06723], [55.7929, -4.04112], [55.77445, -4.01326], [55.76222, -3.98351], [55.74531, -3.96054], [55.73845, -3.95138], [55.73109, -3.95161], [55.71862, -3.95621], [55.70329, -3.94853], [55.68083, -3.93326], [55.66435, -3.92434], [55.65115, -3.89256], [55.61747, -3.85139], [55.57746, -3.81591], [55.5494, -3.79966], [55.52818, -3.76999], [55.51943, -3.72201], [55.50829, -3.69847], [55.49639, -3.69477], [55.47477, -3.69485], [55.46837, -3.68532], [55.46692, -3.66458], [55.46399, -3.64991], [55.45678, -3.64507], [55.44876, -3.65064], [55.43702, -3.6474], [55.42883, -3.61912], [55.42089, -3.58756], [55.39831, -3.54202], [55.394, -3.52556], [55.37917, -3.51822], [55.37314, -3.51291], [55.36625, -3.51478], [55.34712, -3.50266], [55.33377, -3.47931], [55.32112, -3.46684], [55.31245, -3.45157], [55.29639, -3.44161], [55.27999, -3.42602], [55.26186, -3.41586], [55.24259, -3.4092], [55.21263, -3.41266], [55.19232, -3.40869], [55.17688, -3.40226], [55.17038, -3.3931], [55.15421, -3.38381], [55.14346, -3.3756], [55.11368, -3.35813], [55.09894, -3.33749], [55.08981, -3.31967], [55.07634, -3.30845], [55.06547, -3.27428], [55.05685, -3.25123], [55.05254, -3.2213], [55.03671, -3.1742], [55.02024, -3.12185], [55.00573, -3.06755], [54.98966, -3.04099], [54.97582, -3.01091], [54.95564, -2.98498], [54.93356, -2.9584], [54.92987, -2.92312], [54.90799, -2.89276], [54.88022, -2.88133], [54.86708, -2.87573], [54.85473, -2.87926], [54.82809, -2.88928], [54.7987, -2.87083], [54.77203, -2.84622], [54.74358, -2.8104], [54.70457, -2.79188], [54.68443, -2.78906], [54.66635, -2.77319], [54.65538, -2.76399], [54.648, -2.74855], [54.63943, -2.73239], [54.59797, -2.70294], [54.57587, -2.69397], [54.56011, -2.67757], [54.54541, -2.66302], [54.52988, -2.65885], [54.50822, -2.64964], [54.47008, -2.62767], [54.44242, -2.59513], [54.40678, -2.60469], [54.39056, -2.59267], [54.38149, -2.58148], [54.36671, -2.58911], [54.35686, -2.61587], [54.3422, -2.61601], [54.327, -2.62745], [54.29569, -2.65369], [54.26962, -2.68022], [54.24508, -2.70006], [54.23645, -2.71651], [54.22359, -2.72064], [54.19113, -2.72456], [54.16171, -2.73835], [54.14419, -2.73978], [54.12889, -2.74928], [54.11195, -2.76173], [54.0992, -2.766], [54.08539, -2.76653], [54.07247, -2.77113], [54.06183, -2.77098], [54.04786, -2.76543], [54.02261, -2.78296], [53.99981, -2.78034], [53.98552, -2.78132], [53.97442, -2.77289], [53.95124, -2.75102], [53.93725, -2.75657], [53.91738, -2.75603], [53.88401, -2.74397], [53.86219, -2.74089], [53.84039, -2.72384], [53.82133, -2.71572], [53.80952, -2.70036], [53.79533, -2.67747], [53.78632, -2.65355], [53.7763, -2.6443], [53.76084, -2.63574], [53.74206, -2.65076], [53.72743, -2.65098], [53.70255, -2.67724], [53.66334, -2.6903], [53.6336, -2.69124], [53.6123, -2.68644], [53.56967, -2.69878], [53.55112, -2.70096], [53.53721, -2.69719], [53.52044, -2.69604], [53.51053, -2.67543], [53.49725, -2.65696], [53.482, -2.64686], [53.46812, -2.63072], [53.45805, -2.60619], [53.43193, -2.56661], [53.40412, -2.51718], [53.3907, -2.50552], [53.38127, -2.50512], [53.36236, -2.50953], [53.34463, -2.49424], [53.32891, -2.46684], [53.32095, -2.43731], [53.30441, -2.40417], [53.28392, -2.39495], [53.25992, -2.40185], [53.23766, -2.40024], [53.21634, -2.38926], [53.20266, -2.38756], [53.18732, -2.37521], [53.14113, -2.33697], [53.11787, -2.33535], [53.09259, -2.34323], [53.05024, -2.33066], [53.03246, -2.32816], [53.02171, -2.32144], [53.01079, -2.32956], [52.99925, -2.32018], [52.98821, -2.25634], [52.9804, -2.23181], [52.96994, -2.22413], [52.94552, -2.2169], [52.92386, -2.20711], [52.91383, -2.19522], [52.89342, -2.17846], [52.87387, -2.16471], [52.84317, -2.15667], [52.8319, -2.14453], [52.81968, -2.15348], [52.8055, -2.15374], [52.79484, -2.15069], [52.78765, -2.13909], [52.77547, -2.11681], [52.75901, -2.10277], [52.73535, -2.098], [52.71218, -2.10094], [52.69517, -2.10525], [52.67523, -2.0842], [52.66344, -2.06619], [52.63567, -2.05224], [52.61865, -2.03191], [52.59697, -2.01551], [52.57752, -2.01358], [52.56635, -2.00206], [52.55093, -1.95538], [52.55318, -1.93164], [52.542, -1.91328], [52.52443, -1.884], [52.51478, -1.86768], [52.51135, -1.86471], [52.50897, -1.87093], [52.50145, -1.88447], [52.49028, -1.88935], [52.48352, -1.8878], [52.4823, -1.88747]],
+              {"bubblingMouseEvents": true, "color": "blue", "dashArray": [10, 20], "dashOffset": null, "delay": 400, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "hardwareAcceleration": false, "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1, "paused": false, "pulseColor": "#FFFFFF", "reverse": false, "smoothFactor": 1.0, "stroke": true, "weight": 2.5}
+        ).addTo(map_b77c891e36bc892a2f3a943c020e5749);
+        
+    
+            var marker_590908ee78942e5e4e087dd98a26e30d = L.marker(
+                [56.130497, -3.964284],
+                {}
+            ).addTo(map_b77c891e36bc892a2f3a943c020e5749);
+        
+    
+        var popup_29a2ce7576d83cbfb5b4bd2505c881dd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2a8d56bf2eab4eba468106ade29bba0a = $(`<div id="html_2a8d56bf2eab4eba468106ade29bba0a" style="width: 100.0%; height: 100.0%;">Charge Your Car,ChargePlace Scotland Charging Station</div>`)[0];
+                popup_29a2ce7576d83cbfb5b4bd2505c881dd.setContent(html_2a8d56bf2eab4eba468106ade29bba0a);
+            
+        
+
+        marker_590908ee78942e5e4e087dd98a26e30d.bindPopup(popup_29a2ce7576d83cbfb5b4bd2505c881dd)
+        ;
+
+        
+    
+    
+            var marker_6d20cb8595e9edf142f77a69b2dd8af7 = L.marker(
+                [56.083414, -3.927975],
+                {}
+            ).addTo(map_b77c891e36bc892a2f3a943c020e5749);
+        
+    
+        var popup_a5712db76ae4803c8d35e54649f13c0a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_39029895692db2f7388ef9bc231e8434 = $(`<div id="html_39029895692db2f7388ef9bc231e8434" style="width: 100.0%; height: 100.0%;">Chargeplace Scotland Charging Station</div>`)[0];
+                popup_a5712db76ae4803c8d35e54649f13c0a.setContent(html_39029895692db2f7388ef9bc231e8434);
+            
+        
+
+        marker_6d20cb8595e9edf142f77a69b2dd8af7.bindPopup(popup_a5712db76ae4803c8d35e54649f13c0a)
+        ;
+
+        
+    
+    
+            var marker_af011980f29da2b7175bab3d4dd28c8d = L.marker(
+                [55.9277124, -4.0507966],
+                {}
+            ).addTo(map_b77c891e36bc892a2f3a943c020e5749);
+        
+    
+        var popup_789c47ca6514bd06c46e0df323be8e80 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d73f268547a7e660c8e27fc33914eef5 = $(`<div id="html_d73f268547a7e660c8e27fc33914eef5" style="width: 100.0%; height: 100.0%;">Monta Charging Station</div>`)[0];
+                popup_789c47ca6514bd06c46e0df323be8e80.setContent(html_d73f268547a7e660c8e27fc33914eef5);
+            
+        
+
+        marker_af011980f29da2b7175bab3d4dd28c8d.bindPopup(popup_789c47ca6514bd06c46e0df323be8e80)
+        ;
+
+        
+    
+    
+            var marker_ed370c56df3afc35d24a0efc12c7829a = L.marker(
+                [55.83709340000001, -4.111466399999999],
+                {}
+            ).addTo(map_b77c891e36bc892a2f3a943c020e5749);
+        
+    
+        var popup_36d90358298712eea40f0aaf7cb2aa14 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e2992f0329610410784910b308a7a893 = $(`<div id="html_e2992f0329610410784910b308a7a893" style="width: 100.0%; height: 100.0%;">GeniePoint Charging Station</div>`)[0];
+                popup_36d90358298712eea40f0aaf7cb2aa14.setContent(html_e2992f0329610410784910b308a7a893);
+            
+        
+
+        marker_ed370c56df3afc35d24a0efc12c7829a.bindPopup(popup_36d90358298712eea40f0aaf7cb2aa14)
+        ;
+
+        
+    
+    
+            var marker_2b3d4f1b76bc6905cce30eb2755f126a = L.marker(
+                [55.8276844, -4.0853375],
+                {}
+            ).addTo(map_b77c891e36bc892a2f3a943c020e5749);
+        
+    
+        var popup_6b9b6f712aa33ee0d072242782147a7c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_31dc7692b9f6a703d0c5b9caf5786a38 = $(`<div id="html_31dc7692b9f6a703d0c5b9caf5786a38" style="width: 100.0%; height: 100.0%;">ChargePlace Scotland Charging Station</div>`)[0];
+                popup_6b9b6f712aa33ee0d072242782147a7c.setContent(html_31dc7692b9f6a703d0c5b9caf5786a38);
+            
+        
+
+        marker_2b3d4f1b76bc6905cce30eb2755f126a.bindPopup(popup_6b9b6f712aa33ee0d072242782147a7c)
+        ;
+
+        
+    
+    
+            var marker_cf9ced933e907d68d8bc509645aa71f9 = L.marker(
+                [55.507667, -3.695573999999999],
+                {}
+            ).addTo(map_b77c891e36bc892a2f3a943c020e5749);
+        
+    
+        var popup_b85acf6ba529dfd1dd9a0ff6fed340fb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_774a537e4a31c6300a7ceb2260abc2aa = $(`<div id="html_774a537e4a31c6300a7ceb2260abc2aa" style="width: 100.0%; height: 100.0%;">GRIDSERVE Charging Station</div>`)[0];
+                popup_b85acf6ba529dfd1dd9a0ff6fed340fb.setContent(html_774a537e4a31c6300a7ceb2260abc2aa);
+            
+        
+
+        marker_cf9ced933e907d68d8bc509645aa71f9.bindPopup(popup_b85acf6ba529dfd1dd9a0ff6fed340fb)
+        ;
+
+        
+    
+    
+            var marker_59d6904acd24ece7adb5858c59229c74 = L.marker(
+                [54.99343940000001, -3.0673213],
+                {}
+            ).addTo(map_b77c891e36bc892a2f3a943c020e5749);
+        
+    
+        var popup_a0e8a77424cefc167bb09018b7c75999 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_30fa243a2be69b6b3a8997b921a2aa8d = $(`<div id="html_30fa243a2be69b6b3a8997b921a2aa8d" style="width: 100.0%; height: 100.0%;">ChargePlace Scotland Charging Station</div>`)[0];
+                popup_a0e8a77424cefc167bb09018b7c75999.setContent(html_30fa243a2be69b6b3a8997b921a2aa8d);
+            
+        
+
+        marker_59d6904acd24ece7adb5858c59229c74.bindPopup(popup_a0e8a77424cefc167bb09018b7c75999)
+        ;
+
+        
+    
+    
+            var marker_b47886f473c7c5851517a6bc5e93b0c0 = L.marker(
+                [52.597988, -1.998151],
+                {}
+            ).addTo(map_b77c891e36bc892a2f3a943c020e5749);
+        
+    
+        var popup_c6a1b1315d34cf4664a0a69707e01b75 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d888be3a9d570a083890d10908236532 = $(`<div id="html_d888be3a9d570a083890d10908236532" style="width: 100.0%; height: 100.0%;">bp pulse Charging Station</div>`)[0];
+                popup_c6a1b1315d34cf4664a0a69707e01b75.setContent(html_d888be3a9d570a083890d10908236532);
+            
+        
+
+        marker_b47886f473c7c5851517a6bc5e93b0c0.bindPopup(popup_c6a1b1315d34cf4664a0a69707e01b75)
+        ;
+
+        
+    
+    
+            var marker_56c6926906891b1cb74aea271aac7143 = L.marker(
+                [52.5100768, -1.858767],
+                {}
+            ).addTo(map_b77c891e36bc892a2f3a943c020e5749);
+        
+    
+        var popup_54b0137f471ff2a7e5701a7a607beeed = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_52add32be92b7984d35557fee0c44a5a = $(`<div id="html_52add32be92b7984d35557fee0c44a5a" style="width: 100.0%; height: 100.0%;">E.ON Drive Charging Station</div>`)[0];
+                popup_54b0137f471ff2a7e5701a7a607beeed.setContent(html_52add32be92b7984d35557fee0c44a5a);
+            
+        
+
+        marker_56c6926906891b1cb74aea271aac7143.bindPopup(popup_54b0137f471ff2a7e5701a7a607beeed)
+        ;
+
+        
+    
+    
+            var marker_d14287ddde20a61d0950d798fca1aa60 = L.marker(
+                [52.48950929999999, -1.8905876],
+                {}
+            ).addTo(map_b77c891e36bc892a2f3a943c020e5749);
+        
+    
+        var popup_59b5878af9695d6d19622cfd6e6d9a44 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b867c7ce812cdef31303e8a9d28ddca8 = $(`<div id="html_b867c7ce812cdef31303e8a9d28ddca8" style="width: 100.0%; height: 100.0%;">ESB Charging Station</div>`)[0];
+                popup_59b5878af9695d6d19622cfd6e6d9a44.setContent(html_b867c7ce812cdef31303e8a9d28ddca8);
+            
+        
+
+        marker_d14287ddde20a61d0950d798fca1aa60.bindPopup(popup_59b5878af9695d6d19622cfd6e6d9a44)
+        ;
+
+        
+    
+</script>
+</html>
