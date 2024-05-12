@@ -46,7 +46,7 @@ Check out some of my featured projects, github links to projects are attached wi
 - **PDF File:** [PDF](https://github.com/workingbetter/deep-learning-Image-classification-by-Michael-Bogale/blob/main/Classification_final_report.pdf)
 ### Project 3: NLP on Gutenberg Books
 
-![NLP](nlp.png)
+<img src="/Images/nlp_df.png">
 
 - **Description:** Conducted natural language processing (NLP) analysis on 1,176 books from Project Gutenberg.
 - **Technologies Used:** Python, Natural Language Processing (NLP), Data Analysis.
