@@ -18,7 +18,7 @@ Check out some of my featured projects, github links attached:
 
 ### Project 1: Predicting the Impact of Road Conditions on Electric Vehicles using AI Algorithms (MSc. Dissertation)
 
-<a href="/Images/map.html"><img src="/Images/maps.png" alt="Extracted EV Charging Stations from Glasgow to Wolverhampton" width="300"></a>
+<a href="/Images/map_with_stations.html"><img src="/Images/maps.png" alt="Extracted EV Charging Stations from Glasgow to Wolverhampton" width="300"></a>
 
 ![EV Impact](ev_impact.png)
 
