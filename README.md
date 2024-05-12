@@ -110,6 +110,8 @@ Check out some of my featured projects, github links to projects are attached wi
 ## Award
 - **[UOS Academic Award Letter](/Images/Award_Letter.pdf)**
 
+## [CV(Resume)](/Images/CV)
+
 ## Contact Me
 
 Feel free to reach out to me via email at [michaelbogale0@gmail.com](mailto:michaelbogale0@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/michael-bogale-710596253), [Github](https://github.com/workingbetter) Let's collaborate on exciting projects!
