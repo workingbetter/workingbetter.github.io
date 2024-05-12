@@ -16,30 +16,50 @@ I am Michael Bogale, a Junior AI/Data Scientist driven by a passion for leveragi
 
 Check out some of my featured projects, github links attached:
 
-### Project 1: Predicting EV Impact
+### Project 1: Dissertation: Predicting the Impact of Road Conditions on Electric Vehicles using AI Algorithms
 
 ![EV Impact](ev_impact.png)
 
-- **Description:** Predicting the impact of road conditions on Electric Vehicles using AI algorithms.
-- **Technologies:** Python, Machine Learning, Deep Learning, Google API.
+- **Description:** Developed a predictive model to forecast the impact of road conditions on Electric Vehicles (EVs) using AI algorithms.
+- **Technologies Used:** Python, Machine Learning, Deep Learning, Genetic Algorithms, Keras, Google API.
+- **Key Contributions:**
+  - Leveraged extensive datasets sourced from Kaggle, encompassing sensor data from EVs.
+  - Utilized Genetic algorithm from the DEAP library for optimization.
+  - Implemented machine learning models using the Keras library.
+  - Integrated Google API to retrieve routes and real-time road conditions.
 - **Repository:** [GitHub](link_to_repository)
 
-### Project 2: Satellite Image Classification
+### Project 2: Deep Learning Model for Satellite Image Classification
 
 ![Satellite Image](satellite_image.png)
 
-- **Description:** Deep learning model for satellite image classification of cars and trees.
-- **Technologies:** Python, Deep Learning, Convolutional Neural Networks.
+- **Description:** Built a deep learning model for satellite image classification of cars and trees.
+- **Technologies Used:** Python, Deep Learning, Convolutional Neural Networks (CNNs).
+- **Key Contributions:**
+  - Created a dataset containing 2,400 manually labeled images from Google Earth.
+  - Applied data augmentation techniques to enhance model performance.
+  - Tested various CNN architectures based on their past performance on image classification tasks.
 - **Repository:** [GitHub](link_to_repository)
 
 ### Project 3: NLP on Gutenberg Books
 
 ![NLP](nlp.png)
 
-- **Description:** Natural Language Processing on books from Project Gutenberg.
-- **Technologies:** Python, NLP, Data Analysis.
+- **Description:** Conducted natural language processing (NLP) analysis on 1,176 books from Project Gutenberg.
+- **Technologies Used:** Python, Natural Language Processing (NLP), Data Analysis.
+- **Key Contributions:**
+  - Cleaned and extracted metadata from the books.
+  - Performed sentiment analysis on selected books.
+  - Conducted exploratory and descriptive data analysis to gain insights into the text data.
 - **Repository:** [GitHub](link_to_repository)
 
+### Additional Projects
+
+- **Project Title:** [Brief description of the project]
+  - **Description:** [Detailed description of the project]
+  - **Technologies Used:** [Technologies or tools utilized]
+  - **Key Contributions:** [Your contributions to the project]
+- **Repository:** [GitHub](link_to_repository)
 
 ### Education
 - **University:** University of Stirling (UK)
