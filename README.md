@@ -111,5 +111,6 @@ Check out some of my featured projects, github links to projects are attached wi
 
 ## Contact Me
 
-Feel free to reach out to me via email at [michaelbogale0@gmail.com](mailto:michaelbogale0@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/michael-bogale-710596253). Let's collaborate on exciting projects [Github](https://github.com/workingbetter)!
+Feel free to reach out to me via email at [michaelbogale0@gmail.com](mailto:michaelbogale0@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/michael-bogale-710596253). Let's collaborate on exciting projects!
+[Github](https://github.com/workingbetter)
 
