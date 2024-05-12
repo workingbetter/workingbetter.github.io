@@ -14,7 +14,7 @@ I am Michael Bogale, a Junior AI/Data Scientist driven by a passion for leveragi
 
 ## Featured Projects
 
-Check out some of my featured projects, github links are attached:
+Check out some of my featured projects, github links to projects are attached with pdf files:
 
 ### Project 1: Predicting the Impact of Road Conditions on Electric Vehicles using AI Algorithms (MSc. Dissertation)
 
