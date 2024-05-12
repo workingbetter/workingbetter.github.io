@@ -3,19 +3,43 @@
 # Junior AI, Data Scientist
 Michael's portfolio
 
-# [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+## Introduction
 
-![](/Images/positions_by_state.png)
+Welcome to my portfolio! I'm Michael Bogale, a Junior AI/Data Scientist with a passion for problem-solving and a strong foundation in artificial intelligence and data science. This README serves as a brief overview of my skills and projects.
 
+## About Me
 
-# [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
-For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
+I recently graduated with a Master of Science in Artificial Intelligence (with distinction) from the University of Stirling, UK. My educational background includes relevant coursework in statistics, machine learning, deep learning, and natural language processing. I am proficient in Python, R, SQL, and various data science tools and libraries.
 
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
+## Portfolio
 
-![](/images/matrix_results.png)
+Check out some of my featured projects:
+
+### Project 1: Predicting EV Impact
+
+![EV Impact](ev_impact.png)
+
+- **Description:** Predicting the impact of road conditions on Electric Vehicles using AI algorithms.
+- **Technologies:** Python, Machine Learning, Deep Learning, Google API.
+- **Repository:** [GitHub](link_to_repository)
+
+### Project 2: Satellite Image Classification
+
+![Satellite Image](satellite_image.png)
+
+- **Description:** Deep learning model for satellite image classification of cars and trees.
+- **Technologies:** Python, Deep Learning, Convolutional Neural Networks.
+- **Repository:** [GitHub](link_to_repository)
+
+### Project 3: NLP on Gutenberg Books
+
+![NLP](nlp.png)
+
+- **Description:** Natural Language Processing on books from Project Gutenberg.
+- **Technologies:** Python, NLP, Data Analysis.
+- **Repository:** [GitHub](link_to_repository)
+
+## Contact Me
+
+Feel free to reach out to me via email at michaelbogale0@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/michael-bogale-710596253). Let's collaborate on exciting projects!
+
