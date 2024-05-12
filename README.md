@@ -1,4 +1,4 @@
-<img src="/Images/profile.jpg" width="300" height="300">
+<img src="/Images/photo.jpg" width="300" height="300">
 
 # Junior AI, Data Scientist
 Michael's portfolio
