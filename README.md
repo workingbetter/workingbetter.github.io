@@ -29,7 +29,8 @@ Check out some of my featured projects, github links to projects are attached wi
   - Utilized Genetic algorithm from the DEAP library for optimization.
   - Implemented machine learning models using the Keras library.
   - Integrated Google API to retrieve routes and real-time road conditions.
-- **Repository:** [GitHub](link_to_repository)
+- **Repository:** [GitHub](https://github.com/workingbetter/ITNPBD5_Dissertation/tree/main)
+- **PDF File:** [PDF](https://github.com/workingbetter/ITNPBD5_Dissertation/blob/main/Dissertation_pdf.pdf)
 
 ### Project 2: Deep Learning Model for Satellite Image Classification
 
