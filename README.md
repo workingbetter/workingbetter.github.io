@@ -73,10 +73,23 @@ Check out some of my featured projects, github links to projects are attached wi
   - Scaled the data and performed hyperparameter tuning using GridSearchCV.
   - Evaluated model performance using metrics such as accuracy, precision, recall, and F1-score.
   - Selected the Logistic Regression model as the final model based on the highest F1 Score.
-
 - **Repository:** [GitHub](https://github.com/workingbetter/Machine_Learning_Store-classification-by-Michael-Bogale)
 - **PDF File:** [PDF](https://github.com/workingbetter/Machine_Learning_Store-classification-by-Michael-Bogale/blob/main/Store_Performance_Classification.ipynb)
 
+### Project 5: Optiimisation on Various Problems
+
+<img src="/Images/w_optimisation.jpg"> 
+Multi Warehouse distribution Network
+
+- **Description:** Conducted optimization analysis on various problems including maximization of a complex three-dimensional function, multi-warehouse distribution, and meal planning. Utilized Python to implement optimization algorithms such as Random Search, Hill Climbing, and Genetic Algorithm. Evaluated the performance of these algorithms in finding optimal or near-optimal solutions to the respective problems.
+- **Technologies Used:** Python, Optimization Algorithms (Random Search, Hill Climbing, Genetic Algorithm).
+- **Key Contributions:**
+  - Developed Python code to implement Random Search and Hill Climbing algorithms for maximizing a complex three-dimensional function.
+  - Implemented a Genetic Algorithm to optimize multi-warehouse distribution, minimizing total delivery cost.
+  - Employed the Hill Climbing algorithm to optimize meal planning, balancing nutritional requirements and minimizing grocery costs.
+  - Conducted critical analysis of the results obtained from each optimization problem, considering algorithm performance and suitability for the specific task.
+- **Repository:** [GitHub](https://github.com/workingbetter/Optimisation_Project_2/tree/main)
+- **PDF File:** [PDF](https://github.com/workingbetter/Optimisation_Project_2/blob/main/Optimisation.pdf)
 
 ### Education
 - **University:** University of Stirling (UK)
