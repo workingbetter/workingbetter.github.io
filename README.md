@@ -44,6 +44,7 @@ Check out some of my featured projects, github links to projects are attached wi
   - Tested various CNN architectures based on their past performance on image classification tasks.
 - **Repository:** [GitHub](https://github.com/workingbetter/deep-learning-Image-classification-by-Michael-Bogale)
 - **PDF File:** [PDF](https://github.com/workingbetter/deep-learning-Image-classification-by-Michael-Bogale/blob/main/Classification_final_report.pdf)
+
 ### Project 3: NLP on Gutenberg Books
 
 <img src="/Images/nlp_df.png">
@@ -56,6 +57,27 @@ Check out some of my featured projects, github links to projects are attached wi
   - Conducted exploratory and descriptive data analysis to gain insights into the text data.
 - **Repository:** [GitHub](https://github.com/workingbetter/NLP_project_gutenberg)
 - **PDF File:** [PDF](https://github.com/workingbetter/NLP_project_gutenberg/blob/main/NLP.pdf)
+
+### Project 4: Machine Learning Store Performance Classification
+
+<img src="/Images/ml_store.png">
+
+- **Description:** Developed a machine learning model for classifying the performance of retail stores based on various features such as car park availability, clearance space, competition score, floor space, and staff count.
+- **Technologies Used:** Python, Machine Learning, Data Preprocessing, Model Evaluation
+- **Key Contributions:**
+  - Utilized pandas library for data manipulation and analysis.
+  - Employed visualization techniques such as histograms and box plots to understand data distribution.
+  - Conducted data cleaning operations to ensure data quality and consistency.
+  - Applied feature encoding techniques such as LabelEncoder and one-hot encoding for categorical variables.
+  - Utilized SelectKBest method for feature selection to improve model performance.
+  - Split the data into training, validation, and test sets for model evaluation and tuning.
+  - Scaled the data and performed hyperparameter tuning using GridSearchCV.
+  - Evaluated model performance using metrics such as accuracy, precision, recall, and F1-score.
+  - Selected the Logistic Regression model as the final model based on the highest F1 Score.
+
+- **Repository:** [GitHub](https://github.com/workingbetter/Machine_Learning_Store-classification-by-Michael-Bogale)
+- **PDF File:** [PDF](https://github.com/workingbetter/Machine_Learning_Store-classification-by-Michael-Bogale/blob/main/Store_Performance_Classification.ipynb)
+
 ### Additional Projects
 
 - **Project Title:** [Brief description of the project]
