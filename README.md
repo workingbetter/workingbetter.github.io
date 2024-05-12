@@ -16,7 +16,7 @@ I am Michael Bogale, a Junior AI/Data Scientist driven by a passion for leveragi
 
 Check out some of my featured projects, github links to projects are attached with pdf files:
 
-### Project 1: Predicting the Impact of Road Conditions on Electric Vehicles using AI Algorithms (MSc. Dissertation)
+### Project 1: [Predicting the Impact of Road Conditions on Electric Vehicles using AI Algorithms (MSc. Dissertation)](https://github.com/workingbetter/ITNPBD5_Dissertation/blob/main/Dissertation_pdf.pdf)
 
 <a href="/Images/map_with_stations.html"><img src="/Images/maps.png" alt="Extracted EV Charging Stations from Glasgow to Wolverhampton" width="300"></a><img src="/Images/deap.webp" width="300" height="300">
 [Extracted EV Charging Stations from Stirling to Birmingham](/Images/map_with_stations.html)
