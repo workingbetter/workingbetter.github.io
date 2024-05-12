@@ -110,7 +110,7 @@ Check out some of my featured projects, github links to projects are attached wi
 ## Award
 - **[UOS Academic Award Letter](/Images/Award_Letter.pdf)**
 
-## [CV(Resume)](/Images/CV)
+### [CV(Resume)](/Images/CV)
 
 ## Contact Me
 
