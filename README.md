@@ -88,7 +88,7 @@ Check out some of my featured projects, github links to projects are attached wi
 - **Programming Languages:** Python, R, SQL
 - **Technologies:** TensorFlow, PyTorch, Scikit-learn, NLTK, SpaCy, Pandas, NumPy, SQL
 - **Tools:** Jupyter Notebook, Google Colab, Git, GitHub, SQL, Excel, Spreadsheet
-- **Others:** Statistical Analysis, Data Visualization, Teamwork, Problem Solving
+- **Others:** Statistical Analysis, Data Analysis and pre processing, Data Visualization, Teamwork, Problem Solving
 
 ## Skills
 
