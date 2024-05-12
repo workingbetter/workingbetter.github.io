@@ -11,7 +11,7 @@ Welcome to my portfolio! I'm Michael Bogale, a Junior AI/Data Scientist with a p
 
 I recently graduated with a Master of Science in Artificial Intelligence (with distinction) from the University of Stirling, UK. My educational background includes relevant coursework in statistics, machine learning, deep learning, and natural language processing. I am proficient in Python, R, SQL, and various data science tools and libraries.
 
-## Portfolio
+## Featured Projects
 
 Check out some of my featured projects:
 
