@@ -21,8 +21,8 @@ Check out some of my featured projects, github links to projects are attached wi
 <a href="/Images/map_with_stations.html"><img src="/Images/maps.png" alt="Extracted EV Charging Stations from Glasgow to Wolverhampton" width="300"></a><img src="/Images/deap.webp" width="300" height="300">
 [Extracted EV Charging Stations from Stirling to Birmingham](/Images/map_with_stations.html)
 
-- **Description:** Developed a predictive model to forecast the impact of road conditions on Electric Vehicles (EVs) using AI algorithms.
-- **Technologies Used:** Python, Machine Learning, Deep Learning, Genetic Algorithms, Keras, Google API.
+- **Description:** Developed a predictive model to forecast the impact of road conditions on Electric Vehicles (EVs) using Genetic algorithm and Machine learning from Keras Library by using Google Maps API.
+- **Technologies Used:** Python, Machine Learning, Deap, Genetic Algorithms, Keras, Google API.
 - **Key Contributions:**
   - Leveraged extensive datasets sourced from Kaggle, encompassing sensor data from EVs.
   - Utilized Genetic algorithm from the DEAP library for optimization.
@@ -35,12 +35,12 @@ Check out some of my featured projects, github links to projects are attached wi
 
 <img src="/Images/cnn.png" width="300" height="300"><img src="/Images/stirling_car.png" width="300" height="300">
 
-- **Description:** Built a deep learning model for satellite image classification of cars and trees.
-- **Technologies Used:** Python, Deep Learning, Convolutional Neural Networks (CNNs).
+- **Description:** Built a deep learning model for satellite image classification of cars and trees using Pytorch.
+- **Technologies Used:** Python, Deep Learning, Pytorch, Convolutional Neural Networks (CNNs).
 - **Key Contributions:**
   - Created a dataset containing 2,400 manually labeled images from Google Earth.
   - Applied data augmentation techniques to enhance model performance.
-  - Tested various CNN architectures based on their past performance on image classification tasks.
+  - Tested various CNN architectures based on their past performance(pre trained) on image classification tasks.
 - **Repository:** [GitHub](https://github.com/workingbetter/deep-learning-Image-classification-by-Michael-Bogale)
 - **PDF File:** [PDF](https://github.com/workingbetter/deep-learning-Image-classification-by-Michael-Bogale/blob/main/Classification_final_report.pdf)
 
@@ -49,7 +49,7 @@ Check out some of my featured projects, github links to projects are attached wi
 <img src="/Images/nlp_df.png">
 
 - **Description:** Conducted natural language processing (NLP) analysis on 1,176 books from Project Gutenberg.
-- **Technologies Used:** Python, Natural Language Processing (NLP), Data Analysis.
+- **Technologies Used:** Python, Natural Language Processing (NLP), NLTK, Data Analysis.
 - **Key Contributions:**
   - Cleaned and extracted metadata from the books.
   - Performed sentiment analysis on selected books.
