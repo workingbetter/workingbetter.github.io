@@ -85,9 +85,10 @@ Check out some of my featured projects, github links to projects are attached wi
   - **Relevant Courses:**
     - Statistics for Data Science
     - Representing and Manipulating data
-    - Machine Learning, Deep Learning
+    - Machine Learning
+    - Deep Learning for computer vision
     - Natural Language Processing
-    - Stochastic Processes, Optimisation.
+    - Stochastic Processes and Optimisation.
 
 ### Skills
 - **Programming Languages:** Python, R, SQL
