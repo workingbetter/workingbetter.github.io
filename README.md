@@ -92,9 +92,9 @@ Check out some of my featured projects, github links to projects are attached wi
   - **Relevant Courses:** Statistics for Data Science, Machine Learning, Deep Learning, Natural Language Processing, Stochastic Processes, Optimisation.
 
 ### Skills
-- **Programming Languages:** Python, R
+- **Programming Languages:** Python, R, SQL
 - **Technologies:** TensorFlow, PyTorch, Scikit-learn, NLTK, SpaCy, Pandas, NumPy, SQL
-- **Tools:** Jupyter Notebook, Git, GitHub, Docker
+- **Tools:** Jupyter Notebook, Google Colab, Git, GitHub, SQL, Excel, Spreadsheet
 - **Others:** Statistical Analysis, Data Visualization, Teamwork, Problem Solving
 
 ## Skills
