@@ -31,7 +31,7 @@ Check out some of my featured projects, github links to projects are attached wi
 - **Repository:** [GitHub](https://github.com/workingbetter/ITNPBD5_Dissertation/tree/main)
 - **PDF File:** [PDF](https://github.com/workingbetter/ITNPBD5_Dissertation/blob/main/Dissertation_pdf.pdf)
 
-### Project 2: Deep Learning Model for Satellite Image Classification
+### Project 2: [Deep Learning Model for Satellite Image Classification](https://github.com/workingbetter/deep-learning-Image-classification-by-Michael-Bogale/blob/main/Classification_final_report.pdf)
 
 <img src="/Images/cnn.png" width="300" height="300"><img src="/Images/stirling_car.png" width="300" height="300">
 
@@ -44,7 +44,7 @@ Check out some of my featured projects, github links to projects are attached wi
 - **Repository:** [GitHub](https://github.com/workingbetter/deep-learning-Image-classification-by-Michael-Bogale)
 - **PDF File:** [PDF](https://github.com/workingbetter/deep-learning-Image-classification-by-Michael-Bogale/blob/main/Classification_final_report.pdf)
 
-### Project 3: NLP on Gutenberg Books
+### Project 3: [NLP on Gutenberg Books](https://github.com/workingbetter/NLP_project_gutenberg/blob/main/NLP.pdf)
 
 <img src="/Images/nlp_df.png">
 
@@ -57,7 +57,7 @@ Check out some of my featured projects, github links to projects are attached wi
 - **Repository:** [GitHub](https://github.com/workingbetter/NLP_project_gutenberg)
 - **PDF File:** [PDF](https://github.com/workingbetter/NLP_project_gutenberg/blob/main/NLP.pdf)
 
-### Project 4: Machine Learning Store Performance Classification
+### Project 4: [Machine Learning Store Performance Classification](https://github.com/workingbetter/Machine_Learning_Store-classification-by-Michael-Bogale/blob/main/Store_Performance_Classification.ipynb)
 
 <img src="/Images/ml_store.png">
 
