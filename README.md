@@ -110,13 +110,13 @@ Check out some of my featured projects, github links to projects are attached wi
 ## Certifications and Courses
 
 - Coursera: [Introduction to Generative AI](https://coursera.org/share/b3db3b5f0a6512a67d0007dcc7206311)
-- Sololearn: Python for Data Science
-- Sololearn: Machine Learning
-- Sololearn: Python Developer
-- Datacamp: Python
-- Datacamp: SQL
-- Datacamp: Data Analysis in Spreadsheets
-- Udemy: MS Excel for Data Analysis
+- Sololearn: [Python for Data Science](https://www.sololearn.com/certificates/CT-5ZWWCKT1)
+- Sololearn: [Machine Learning](https://www.sololearn.com/certificates/CT-QGSQ9ZA4)
+- Sololearn: [Python Developer](https://api2.sololearn.com/v2/certificates/CC-YXTQIT8N/image/png)
+- Udacity: [Descriptive Statistics(Masterschool)](https://confirm.udacity.com/e/bc826524-af02-11ed-8989-4b5c12dfdeae)
+- Datacamp: [SQL](https://www.datacamp.com/statement-of-accomplishment/course/de9d1eb3405528853994dc6a125eea87b38d133f?raw=1)
+- Datacamp: [Data Analysis in Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/a4dc56d5c839219f9ce57c614a76521f4ed48e63?raw=1)
+- Udemy: [MS Excel for Data Analysis](https://www.udemy.com/certificate/UC-4cfa5fea-4ea4-4c42-8a67-9a1b5a59dcfb/)
 
 ## Contact Me
 
