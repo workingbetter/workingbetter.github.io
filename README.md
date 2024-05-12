@@ -77,18 +77,12 @@ Check out some of my featured projects, github links to projects are attached wi
 - **Repository:** [GitHub](https://github.com/workingbetter/Machine_Learning_Store-classification-by-Michael-Bogale)
 - **PDF File:** [PDF](https://github.com/workingbetter/Machine_Learning_Store-classification-by-Michael-Bogale/blob/main/Store_Performance_Classification.ipynb)
 
-### Additional Projects
-
-- **Project Title:** [Brief description of the project]
-  - **Description:** [Detailed description of the project]
-  - **Technologies Used:** [Technologies or tools utilized]
-  - **Key Contributions:** [Your contributions to the project]
-- **Repository:** [GitHub](link_to_repository)
 
 ### Education
 - **University:** University of Stirling (UK)
   - **Degree:** MSc in Artificial Intelligence (with distinction)
-  - **Relevant Courses:** Statistics for Data Science, Machine Learning, Deep Learning, Natural Language Processing, Stochastic Processes, Optimisation.
+    - November 2023
+  - **Relevant Courses:** Statistics for Data Science, Representing and Manipulating data, Machine Learning, Deep Learning, Natural Language Processing, Stochastic Processes, Optimisation.
 
 ### Skills
 - **Programming Languages:** Python, R, SQL
