@@ -109,7 +109,7 @@ Check out some of my featured projects, github links to projects are attached wi
 
 ## Certifications and Courses
 
-- Coursera: Introduction to Generative AI
+- Coursera: [Introduction to Generative AI](https://coursera.org/share/b3db3b5f0a6512a67d0007dcc7206311)
 - Sololearn: Python for Data Science
 - Sololearn: Machine Learning
 - Sololearn: Python Developer
