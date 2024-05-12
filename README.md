@@ -80,7 +80,7 @@ Check out some of my featured projects, github links to projects are attached wi
 
 ### Education
 - **University:** University of Stirling (UK)
-  - **Degree:** MSc in Artificial Intelligence (with distinction)
+  - **Degree:** [MSc in Artificial Intelligence (with distinction)](/Images/degree.pdf)
     - November 2023
   - **Relevant Courses:**
     - Statistics for Data Science
@@ -105,6 +105,9 @@ Check out some of my featured projects, github links to projects are attached wi
 - Datacamp: [SQL](https://www.datacamp.com/statement-of-accomplishment/course/de9d1eb3405528853994dc6a125eea87b38d133f?raw=1)
 - Datacamp: [Data Analysis in Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/a4dc56d5c839219f9ce57c614a76521f4ed48e63?raw=1)
 - Udemy: [MS Excel for Data Analysis](https://www.udemy.com/certificate/UC-4cfa5fea-4ea4-4c42-8a67-9a1b5a59dcfb/)
+
+## Award
+- **[UOS Academic Award Letter](/Images/Award_Letter.pdf)**
 
 ## Contact Me
 
