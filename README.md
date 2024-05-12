@@ -39,6 +39,16 @@ Check out some of my featured projects:
 - **Technologies:** Python, NLP, Data Analysis.
 - **Repository:** [GitHub](link_to_repository)
 
+## Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- SQL
+- Statistical Analysis
+- Data Analysis and Preprocessing
+
 ## Contact Me
 
 Feel free to reach out to me via email at michaelbogale0@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/michael-bogale-710596253). Let's collaborate on exciting projects!
