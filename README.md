@@ -109,7 +109,7 @@ Check out some of my featured projects, github links to projects are attached wi
 
 ## Certifications and Courses
 
-- Coursera: [Introduction to Generative AI](https://coursera.org/share/b3db3b5f0a6512a67d0007dcc7206311)
+- Coursera: [Introduction to Generative AI(Google Cloud)](https://coursera.org/share/b3db3b5f0a6512a67d0007dcc7206311)
 - Sololearn: [Python for Data Science](https://www.sololearn.com/certificates/CT-5ZWWCKT1)
 - Sololearn: [Machine Learning](https://www.sololearn.com/certificates/CT-QGSQ9ZA4)
 - Sololearn: [Python Developer](https://api2.sololearn.com/v2/certificates/CC-YXTQIT8N/image/png)
