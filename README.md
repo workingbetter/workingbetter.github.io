@@ -78,8 +78,7 @@ Check out some of my featured projects, github links to projects are attached wi
 
 ### Project 5: Optiimisation on Various Problems
 
-<img src="/Images/w_optimisation.jpg"> 
-Multi Warehouse distribution Network
+<img src="/Images/w_optimisation.jpg">Fig: Multi Warehouse distribution Network
 
 - **Description:** Conducted optimization analysis on various problems including maximization of a complex three-dimensional function, multi-warehouse distribution, and meal planning. Utilized Python to implement optimization algorithms such as Random Search, Hill Climbing, and Genetic Algorithm. Evaluated the performance of these algorithms in finding optimal or near-optimal solutions to the respective problems.
 - **Technologies Used:** Python, Optimization Algorithms (Random Search, Hill Climbing, Genetic Algorithm).
