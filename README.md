@@ -1,6 +1,6 @@
 <img src="/Images/photo3.jpg" width="300" height="350">
 
-# Junior AI, Data Scientist
+# AI, Data Scientist, Python Developer
 Michael's portfolio
 
 ## Introduction
