@@ -92,7 +92,8 @@ Check out some of my featured projects, github links to projects are attached wi
 
 ### Project 6: [REVV Token Analysis Dashboard with Dune Analytics](https://dune.com/michaelbogale/revv-token-analysis-dashboard)
 
-<img src="/Images/revv.png">Fig: User distribution of Revv Token
+<img src="/Images/revv.png"> 
+Fig: User distribution of Revv Token
 
 - **Description:**  Conducted analysis of the REVV token, developed by Animoca Brands, using Dune Analytics to create an interactive dashboard that provides valuable insights into market trends, trading volumes, and user activity.
 - **Technologies Used:** Dune Analytics, SQL (PostgreSQL), Data Analysis, Data Visualization
