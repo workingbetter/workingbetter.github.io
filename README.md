@@ -90,6 +90,22 @@ Check out some of my featured projects, github links to projects are attached wi
 - **Repository:** [GitHub](https://github.com/workingbetter/Optimisation_Project_2/tree/main)
 - **PDF File:** [PDF](https://github.com/workingbetter/Optimisation_Project_2/blob/main/Optimisation.pdf)
 
+### Project 6: [REVV Token Analysis Dashboard with Dune Analytics](https://dune.com/michaelbogale/revv-token-analysis-dashboard)
+
+<img src="/Images/revv.png">Fig: User distribution of Revv Token
+
+- **Description:**  Conducted analysis of the REVV token, developed by Animoca Brands, using Dune Analytics to create an interactive dashboard that provides valuable insights into market trends, trading volumes, and user activity.
+- **Technologies Used:** Dune Analytics, SQL (PostgreSQL), Data Analysis, Data Visualization
+- **Key Contributions:**
+  - Utilized Dune Analytics' SQL interface to query on-chain sample data for REVV tokens.
+  - Developed an interactive dashboard to visualize key metrics and trends.
+  -Employed various data visualization techniques, including line charts, bar charts, and pie charts, to represent the data comprehensively.
+- **Dashboard Overview:**
+  - Daily Trading Volume: A line chart showing the historical trading volumes of the REVV token, which helps in understanding market activity and liquidity.
+  - Daily Transaction Count: A bar chart depicting the number of daily transactions involving the REVV token, providing insights into user engagement and network activity.
+  - User Distribution: A pie chart illustrating the distribution of users based on their transaction activity, which is crucial for identifying key stakeholders and their behaviors.
+- **Dashboard** [Dune Dashboard](https://dune.com/michaelbogale/revv-token-analysis-dashboard)
+
 ### Education
 - **University:** University of Stirling (UK)
   - **Degree:** [MSc in Artificial Intelligence (with distinction)](/Images/degree.pdf)
