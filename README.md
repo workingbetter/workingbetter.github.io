@@ -104,7 +104,7 @@ Check out some of my featured projects, github links to projects are attached wi
   - Daily Trading Volume: A line chart showing the historical trading volumes of the REVV token, which helps in understanding market activity and liquidity.
   - Daily Transaction Count: A bar chart depicting the number of daily transactions involving the REVV token, providing insights into user engagement and network activity.
   - User Distribution: A pie chart illustrating the distribution of users based on their transaction activity, which is crucial for identifying key stakeholders and their behaviors.
-- **Dashboard** [Dune Dashboard](https://dune.com/michaelbogale/revv-token-analysis-dashboard)
+- **Dune Dashboard** [Link](https://dune.com/michaelbogale/revv-token-analysis-dashboard)
 
 ### Education
 - **University:** University of Stirling (UK)
