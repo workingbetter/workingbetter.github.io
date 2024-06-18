@@ -109,7 +109,7 @@ Check out some of my featured projects, github links to projects are attached wi
 ### Education
 - **University:** University of Stirling (UK)
   - **Degree:** [MSc in Artificial Intelligence (with distinction)](/Images/degree.pdf)
-    - November 2023
+    - September 2022 - November 2023
   - **Relevant Courses:**
     - Statistics for Data Science
     - Representing and Manipulating data
@@ -117,6 +117,18 @@ Check out some of my featured projects, github links to projects are attached wi
     - Deep Learning for computer vision
     - Natural Language Processing
     - Stochastic Processes and Optimisation.
+
+- **University:**Addis Ababa University (#1 in Ethiopia)
+  - **Degree:** [BSc in Mechaincal Engineering (with distinction)](/Images/degree.pdf)
+    - September 2015 - December 2020
+  - **Relevant Courses:**
+    - Applied Mathematics I, II, III
+    - Probability and Statistics for Engineers
+    - Reasoning Skills (Logic)
+    - Introduction to Economics
+    - C++, Python
+    - Mechatronics
+    - Machine Design, Thermodynamics, Mechanics
 
 ### Skills
 - **Programming Languages:** Python, R, SQL
@@ -137,6 +149,12 @@ Check out some of my featured projects, github links to projects are attached wi
 
 ## Award
 - **[UOS Academic Award Letter](/Images/Award_Letter.pdf)**
+
+### Employment
+- **Amazon Logistics,** Sortation Center, Edinburgh, UK
+- **September 2022 - Present**
+  - As part of my academic journey pursuing an MSc in Artificial Intelligence, I have concurrently gained valuable real-world experience by working part time at Amazon Logistics' Sortation Center in Edinburgh. This role has provided me with exposure to operational dynamics within a large-scale logistics environment.
+  - I have honed my ability to thrive in fast-paced settings, manage time effectively, and collaborate with diverse teams this demonstrates my commitment to achieve excellence in my dreams and ability to thrive in challenging environments. This experience has not only enriched my practical understanding of logistics operations but has also enhanced my communication skills through regular interaction with colleagues and managers.
 
 ### [CV(Resume)](/Images/CV.pdf)
 
