@@ -119,7 +119,7 @@ Check out some of my featured projects, github links to projects are attached wi
     - Stochastic Processes and Optimisation.
 
 - **University:**Addis Ababa University (#1 in Ethiopia)
-  - **Degree:** [BSc in Mechaincal Engineering (with distinction)](/Images/degree.pdf)
+  - **Degree:** [BSc in Mechaincal Engineering (with distinction)](/Images/aait.pdf)
     - September 2015 - December 2020
   - **Relevant Courses:**
     - Applied Mathematics I, II, III
