@@ -61,8 +61,7 @@ I am Michael Bogale, a Junior AI/Data Scientist driven by a passion for leveragi
 ### Employment
 - **Amazon Logistics,** Sortation Center, Edinburgh, UK
 - **September 2022 - Present**
-  - As part of my academic journey pursuing an MSc in Artificial Intelligence, I have concurrently gained valuable real-world experience by working part time at Amazon Logistics' Sortation Center in Edinburgh. This role has provided me with exposure to operational dynamics within a large-scale logistics environment.
-  - I have honed my ability to thrive in fast-paced settings, manage time effectively, and collaborate with diverse teams this demonstrates my commitment to achieve excellence in my dreams and ability to thrive in challenging environments. This experience has not only enriched my practical understanding of logistics operations but has also enhanced my communication skills through regular interaction with colleagues and managers.
+  - As part of my academic journey pursuing an MSc in Artificial Intelligence, I have concurrently gained valuable real-world experience by working part time at Amazon Logistics' Sortation Center in Edinburgh. This role has provided me with exposure to operational dynamics within a large-scale logistics environment. I have honed my ability to thrive in fast-paced settings, manage time effectively, and collaborate with diverse teams.
 
 ### [CV(Resume)](/Images/CV.pdf)
 
