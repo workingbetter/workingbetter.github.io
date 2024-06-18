@@ -12,7 +12,7 @@ Greetings! I'm Michael Bogale, a Junior AI/Data Scientist dedicated to leveragin
 I am Michael Bogale, a Junior AI/Data Scientist driven by a passion for leveraging artificial intelligence and data science to solve complex problems. With a recent Master of Science degree in Artificial Intelligence (with distinction) from the University of Stirling, UK, I have acquired a solid foundation in data science principles, and programming languages. My objective is to secure a challenging position where I can apply my expertise to contribute to innovative and data-driven solutions. Throughout my academic and professional journey, I have demonstrated proficiency in Python, R, SQL, and various data science libraries and tools. I have applied machine learning, deep learning, and natural language processing techniques to tackle real-world problems, as evidenced by my diverse portfolio of projects. I am a lifelong learner committed to staying updated with the latest advancements in the field, continuously seeking opportunities to expand my knowledge and skills. With excellent teamwork and collaboration abilities, I thrive in dynamic environments where I can collaborate with multidisciplinary teams to achieve common goals. If you're looking for a dedicated and results-oriented AI/Data Scientist who is eager to make a positive impact, you found one, I would love to connect and explore potential collaborations.
 
 ### Education
-- **University:** [University of Stirling](https://www.stir.ac.uk/) (UK)
+- **University:** University of Stirling (UK)
   - **Degree:** [MSc in Artificial Intelligence (with distinction)](/Images/degree.pdf)
     - September 2022 - November 2023
   - **Relevant Courses:**
@@ -23,7 +23,7 @@ I am Michael Bogale, a Junior AI/Data Scientist driven by a passion for leveragi
     - Natural Language Processing
     - Stochastic Processes and Optimisation.
 
-- **University:** [Addis Ababa University](https://www.aau.edu.et/) (#1 in Ethiopia)
+- **University:** Addis Ababa University (#1 in Ethiopia)
   - **Degree:** [BSc in Mechaincal Engineering (with distinction)](/Images/aait.pdf)
     - September 2015 - December 2020
   - **Relevant Courses:**
