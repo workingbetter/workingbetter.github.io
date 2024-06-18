@@ -11,6 +11,57 @@ Greetings! I'm Michael Bogale, a Junior AI/Data Scientist dedicated to leveragin
 
 I am Michael Bogale, a Junior AI/Data Scientist driven by a passion for leveraging artificial intelligence and data science to solve complex problems. With a recent Master of Science degree in Artificial Intelligence (with distinction) from the University of Stirling, UK, I have acquired a solid foundation in data science principles, and programming languages. My objective is to secure a challenging position where I can apply my expertise to contribute to innovative and data-driven solutions. Throughout my academic and professional journey, I have demonstrated proficiency in Python, R, SQL, and various data science libraries and tools. I have applied machine learning, deep learning, and natural language processing techniques to tackle real-world problems, as evidenced by my diverse portfolio of projects. I am a lifelong learner committed to staying updated with the latest advancements in the field, continuously seeking opportunities to expand my knowledge and skills. With excellent teamwork and collaboration abilities, I thrive in dynamic environments where I can collaborate with multidisciplinary teams to achieve common goals. If you're looking for a dedicated and results-oriented AI/Data Scientist who is eager to make a positive impact, you found one, I would love to connect and explore potential collaborations.
 
+### Education
+- **University:** University of Stirling (UK)
+  - **Degree:** [MSc in Artificial Intelligence (with distinction)](/Images/degree.pdf)
+    - September 2022 - November 2023
+  - **Relevant Courses:**
+    - Statistics for Data Science
+    - Representing and Manipulating data
+    - Machine Learning
+    - Deep Learning for computer vision
+    - Natural Language Processing
+    - Stochastic Processes and Optimisation.
+
+- **University:** Addis Ababa University (#1 in Ethiopia)
+  - **Degree:** [BSc in Mechaincal Engineering (with distinction)](/Images/aait.pdf)
+    - September 2015 - December 2020
+  - **Relevant Courses:**
+    - Applied Mathematics I, II, III
+    - Probability and Statistics for Engineers
+    - Reasoning Skills (Logic)
+    - Introduction to Economics
+    - C++, Python
+    - Mechatronics
+    - Machine Design, Thermodynamics, Mechanics
+
+### Skills
+- **Programming Languages:** Python, R, SQL
+- **Technologies:** TensorFlow, PyTorch, Scikit-learn, NLTK, Pandas, NumPy, SQL
+- **Tools:** Jupyter Notebook, Google Colab, Git, GitHub, SQL, Excel, Spreadsheet
+- **Others:** Deep Learning, Machine Learning, Multi-Dimension Optimisation, Algorithm developement, Statistical Analysis, Data Analysis and pre processing, Data Visualization, Teamwork, Problem Solving
+
+## Certifications and Courses
+
+- Coursera: [Introduction to Generative AI(Google Cloud)](https://coursera.org/share/b3db3b5f0a6512a67d0007dcc7206311)
+- Sololearn: [Python for Data Science](https://www.sololearn.com/certificates/CT-5ZWWCKT1)
+- Sololearn: [Machine Learning](https://www.sololearn.com/certificates/CT-QGSQ9ZA4)
+- Sololearn: [Python Developer](https://api2.sololearn.com/v2/certificates/CC-YXTQIT8N/image/png)
+- Udacity: [Descriptive Statistics(Masterschool)](https://confirm.udacity.com/e/bc826524-af02-11ed-8989-4b5c12dfdeae)
+- Datacamp: [SQL](https://www.datacamp.com/statement-of-accomplishment/course/de9d1eb3405528853994dc6a125eea87b38d133f?raw=1)
+- Datacamp: [Data Analysis in Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/a4dc56d5c839219f9ce57c614a76521f4ed48e63?raw=1)
+- Udemy: [MS Excel for Data Analysis](https://www.udemy.com/certificate/UC-4cfa5fea-4ea4-4c42-8a67-9a1b5a59dcfb/)
+
+## Award
+- **[UOS Academic Award Letter](/Images/Award_Letter.pdf)**
+
+### Employment
+- **Amazon Logistics,** Sortation Center, Edinburgh, UK
+- **September 2022 - Present**
+  - As part of my academic journey pursuing an MSc in Artificial Intelligence, I have concurrently gained valuable real-world experience by working part time at Amazon Logistics' Sortation Center in Edinburgh. This role has provided me with exposure to operational dynamics within a large-scale logistics environment.
+  - I have honed my ability to thrive in fast-paced settings, manage time effectively, and collaborate with diverse teams this demonstrates my commitment to achieve excellence in my dreams and ability to thrive in challenging environments. This experience has not only enriched my practical understanding of logistics operations but has also enhanced my communication skills through regular interaction with colleagues and managers.
+
+### [CV(Resume)](/Images/CV.pdf)
 
 ## Featured Projects
 
@@ -106,57 +157,7 @@ Check out some of my featured projects, github links to projects are attached wi
   - User Distribution: A pie chart illustrating the distribution of users based on their transaction activity, which is crucial for identifying key stakeholders and their behaviors.
 - **Dune Dashboard** [Link](https://dune.com/michaelbogale/revv-token-analysis-dashboard)
 
-### Education
-- **University:** University of Stirling (UK)
-  - **Degree:** [MSc in Artificial Intelligence (with distinction)](/Images/degree.pdf)
-    - September 2022 - November 2023
-  - **Relevant Courses:**
-    - Statistics for Data Science
-    - Representing and Manipulating data
-    - Machine Learning
-    - Deep Learning for computer vision
-    - Natural Language Processing
-    - Stochastic Processes and Optimisation.
 
-- **University:**Addis Ababa University (#1 in Ethiopia)
-  - **Degree:** [BSc in Mechaincal Engineering (with distinction)](/Images/aait.pdf)
-    - September 2015 - December 2020
-  - **Relevant Courses:**
-    - Applied Mathematics I, II, III
-    - Probability and Statistics for Engineers
-    - Reasoning Skills (Logic)
-    - Introduction to Economics
-    - C++, Python
-    - Mechatronics
-    - Machine Design, Thermodynamics, Mechanics
-
-### Skills
-- **Programming Languages:** Python, R, SQL
-- **Technologies:** TensorFlow, PyTorch, Scikit-learn, NLTK, Pandas, NumPy, SQL
-- **Tools:** Jupyter Notebook, Google Colab, Git, GitHub, SQL, Excel, Spreadsheet
-- **Others:** Deep Learning, Machine Learning, Multi-Dimension Optimisation, Algorithm developement, Statistical Analysis, Data Analysis and pre processing, Data Visualization, Teamwork, Problem Solving
-
-## Certifications and Courses
-
-- Coursera: [Introduction to Generative AI(Google Cloud)](https://coursera.org/share/b3db3b5f0a6512a67d0007dcc7206311)
-- Sololearn: [Python for Data Science](https://www.sololearn.com/certificates/CT-5ZWWCKT1)
-- Sololearn: [Machine Learning](https://www.sololearn.com/certificates/CT-QGSQ9ZA4)
-- Sololearn: [Python Developer](https://api2.sololearn.com/v2/certificates/CC-YXTQIT8N/image/png)
-- Udacity: [Descriptive Statistics(Masterschool)](https://confirm.udacity.com/e/bc826524-af02-11ed-8989-4b5c12dfdeae)
-- Datacamp: [SQL](https://www.datacamp.com/statement-of-accomplishment/course/de9d1eb3405528853994dc6a125eea87b38d133f?raw=1)
-- Datacamp: [Data Analysis in Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/a4dc56d5c839219f9ce57c614a76521f4ed48e63?raw=1)
-- Udemy: [MS Excel for Data Analysis](https://www.udemy.com/certificate/UC-4cfa5fea-4ea4-4c42-8a67-9a1b5a59dcfb/)
-
-## Award
-- **[UOS Academic Award Letter](/Images/Award_Letter.pdf)**
-
-### Employment
-- **Amazon Logistics,** Sortation Center, Edinburgh, UK
-- **September 2022 - Present**
-  - As part of my academic journey pursuing an MSc in Artificial Intelligence, I have concurrently gained valuable real-world experience by working part time at Amazon Logistics' Sortation Center in Edinburgh. This role has provided me with exposure to operational dynamics within a large-scale logistics environment.
-  - I have honed my ability to thrive in fast-paced settings, manage time effectively, and collaborate with diverse teams this demonstrates my commitment to achieve excellence in my dreams and ability to thrive in challenging environments. This experience has not only enriched my practical understanding of logistics operations but has also enhanced my communication skills through regular interaction with colleagues and managers.
-
-### [CV(Resume)](/Images/CV.pdf)
 
 ## Contact Me
 
