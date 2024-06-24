@@ -49,7 +49,7 @@ I am Michael Bogale, a Junior AI/Data Scientist driven by a passion for leveragi
 - Coursera: [Introduction to Generative AI(Google Cloud)](https://coursera.org/share/b3db3b5f0a6512a67d0007dcc7206311)
 - Sololearn: [Python for Data Science](https://www.sololearn.com/certificates/CT-5ZWWCKT1)
 - Sololearn: [Machine Learning](https://www.sololearn.com/certificates/CT-QGSQ9ZA4)
-- Sololearn: [Python Developer](https://api2.sololearn.com/v2/certificates/CC-YXTQIT8N/image/png)
+- Sololearn: [Python Developer](https://www.sololearn.com/certificates/CC-YXTQIT8N)
 - Udacity: [Descriptive Statistics(Masterschool)](https://confirm.udacity.com/e/bc826524-af02-11ed-8989-4b5c12dfdeae)
 - Datacamp: [SQL](https://www.datacamp.com/statement-of-accomplishment/course/de9d1eb3405528853994dc6a125eea87b38d133f?raw=1)
 - Datacamp: [Data Analysis in Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/a4dc56d5c839219f9ce57c614a76521f4ed48e63?raw=1)
