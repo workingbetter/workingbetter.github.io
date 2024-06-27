@@ -25,19 +25,6 @@ I am Michael Bogale, a Junior AI/Data Scientist driven by a passion for leveragi
     - Statistics for Data Science
     - Python Data Structures and Algorithms
 
-##    Undergraduate
-- **University:** Addis Ababa University (#1 in Ethiopia)
-  - **Degree:** [BSc in Mechaincal Engineering (with distinction)](/Images/aait.pdf)
-    - September 2015 - December 2020
-  - **Relevant Courses:**
-    - Applied Mathematics I, II, III
-    - Probability and Statistics for Engineers
-    - Reasoning Skills (Logic)
-    - Introduction to Economics
-    - C++, Python
-    - Mechatronics
-    - Machine Design, Thermodynamics, Mechanics
-
 ### Skills
 - **Programming Languages:** Python, R, SQL
 - **Technologies:** TensorFlow, PyTorch, Scikit-learn, NLTK, Pandas, NumPy, SQL
