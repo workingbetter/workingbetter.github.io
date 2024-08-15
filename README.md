@@ -32,7 +32,7 @@ I am Michael Bogale, a Junior AI/Data Scientist driven by a passion for leveragi
 - **University:** Addis Ababa University (#1 Ethiopia)
 - Grade: Distinction
 - Stream: [Machine Design](/Images/design.pdf)
-  - **Degree:** [BSc in Mechanical Engineering](/Images/aait.pdf)
+  - **Degree:** [BSc in Mechanical Engineering (with distinction](/Images/aait.pdf)
     - September 2015 - December 2020
   - **Relevant Courses:**
     - Applied Mathematics and Statistics
