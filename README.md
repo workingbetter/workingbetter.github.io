@@ -5,7 +5,7 @@ Michael's portfolio
 
 ## Introduction
 
-Greetings! I'm Michael Bogale, a Junior AI/Data Scientist dedicated to leveraging cutting-edge technologies to drive innovation and solve complex challenges. With a solid background in artificial intelligence and data science, I bring a relentless passion for problem-solving and optimization to every project I undertake. This portfolio offers a glimpse into my diverse skill set and showcases the projects I've worked on. Feel free to dive in to explore how I can contribute to your team's success!
+Greetings! I'm Michael Bogale, a Junior AI/Data Scientist also an Engineer dedicated to leveraging cutting-edge technologies to drive innovation and solve complex challenges. With a solid background in artificial intelligence and data science, I bring a relentless passion for problem-solving and optimization to every project I undertake. This portfolio offers a glimpse into my diverse skill set and showcases the projects I've worked on. Feel free to dive in to explore how I can contribute to your team's success!
 
 ## About Me
 
