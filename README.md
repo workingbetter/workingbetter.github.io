@@ -166,7 +166,7 @@ Feel free to reach out to me via email at [michaelbogale0@gmail.com](mailto:mich
 ## **Reference for Michael Bogale**  
 *Dr. Andrew Hoyle*  
 *Senior Lecturer, Divisional Director of Learning and Teaching (Computing Science and Mathematics),* 
-*Programme Director: MSc Mathematics and Data Science, University of Stirling*
+*Programme Director: MSc Mathematics and Data Science, University of Stirling, United Kingdom*
 
 *"Michael Bogale was a hard-working student and was able to pick up complicated topics very quickly. His dissertation on optimizing electric vehicle charging using AI involved data collection, model building, machine learning, and optimization. He was extremely hard-working and self-motivated, consistently setting and achieving his own targets. Michael has proven himself to be excellent academically and I have no hesitation in recommending him for a PhD."*
 
