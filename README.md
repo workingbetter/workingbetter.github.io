@@ -157,10 +157,23 @@ Check out some of my featured projects, github links to projects are attached wi
   - User Distribution: A pie chart illustrating the distribution of users based on their transaction activity, which is crucial for identifying key stakeholders and their behaviors.
 - **Dune Dashboard** [Link](https://dune.com/michaelbogale/revv-token-analysis-dashboard)
 
-
+### Award
+- **[UOS Academic Award Letter](/Images/Award_Letter.pdf)**
 
 ## Contact Me
 
 Feel free to reach out to me via email at [michaelbogale0@gmail.com](mailto:michaelbogale0@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/michael-bogale-710596253), [Github](https://github.com/workingbetter) Let's collaborate on exciting projects!
 
+---
+
+## **Reference for Michael Bogale**  
+*Dr. Andrew Hoyle*  
+*Senior Lecturer, Divisional Director of Learning and Teaching (Computing Science and Mathematics),* 
+*Programme Director: MSc Mathematics and Data Science, University of Stirling*
+
+*"Michael Bogale was a hard-working student and was able to pick up complicated topics very quickly. His dissertation on optimizing electric vehicle charging using AI involved data collection, model building, machine learning, and optimization. He was extremely hard-working and self-motivated, consistently setting and achieving his own targets. Michael has proven himself to be excellent academically and I have no hesitation in recommending him for a PhD."*
+
+[Read Full Reference Letter (PDF)](/Images/reference.pdf)
+
+---
 
