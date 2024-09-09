@@ -157,9 +157,6 @@ Check out some of my featured projects, github links to projects are attached wi
   - User Distribution: A pie chart illustrating the distribution of users based on their transaction activity, which is crucial for identifying key stakeholders and their behaviors.
 - **Dune Dashboard** [Link](https://dune.com/michaelbogale/revv-token-analysis-dashboard)
 
-### Award
-- **[UOS Academic Award Letter](/Images/Award_Letter.pdf)**
-
 ## Contact Me
 
 Feel free to reach out to me via email at [michaelbogale0@gmail.com](mailto:michaelbogale0@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/michael-bogale-710596253), [Github](https://github.com/workingbetter) Let's collaborate on exciting projects!
