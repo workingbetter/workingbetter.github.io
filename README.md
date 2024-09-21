@@ -44,32 +44,37 @@ I am Michael Bogale, a Junior AI/Data Scientist driven by a passion for leveragi
 ### Skills
 
 ### Programming Languages:
-- **Python**: Advanced, used for AI/ML algorithms, data analysis, automation
-- **R**: Statistical computing and graphics, data visualization
-- **SQL**: Database querying, management, and optimization
+- **Python**: Advanced, used for AI/ML, data analysis, automation, and Raspberry Pi projects, with experience in libraries like Pandas, NumPy, TensorFlow, PyTorch, Scikit-learn, and NLTK.
+- **R**: Statistical computing and data visualization
+- **SQL**: Writing complex queries, database management, optimization, and handling large datasets for analytical tasks.
+- **Bash/Shell Scripting**: Basic scripting for task automation and managing Raspberry Pi environments within Linux.
 
 ### Technologies:
-- **TensorFlow & PyTorch**: Deep Learning frameworks, model development
-- **Scikit-learn**: Classical Machine Learning algorithms, feature engineering
-- **NLTK**: Natural Language Processing, text analysis
-- **Pandas & NumPy**: Data manipulation, numerical operations, data cleaning
+- **TensorFlow & PyTorch**: Deep Learning frameworks for model development
+- **Scikit-learn**: Classical ML algorithms, feature engineering
+- **NLTK**: Text analysis and Natural Language Processing
+- **Pandas & NumPy**: Data manipulation, numerical operations, data preprocessing
+- **Linux**: Command-line interface, scripting, task automation, Raspberry Pi shell scripting.
 
 ### Tools:
-- **Jupyter Notebook & Google Colab**: Interactive coding environments for data analysis
-- **Git & GitHub**: Version control, collaborative projects
+- **Jupyter Notebook & Google Colab**: Interactive coding environments
+- **Git & GitHub**: Version control, collaboration on projects
 - **SQL**: Database management, data querying
-- **Excel & Spreadsheets**: Data analysis, reporting, and visualization
+- **Excel & Spreadsheets**: Data analysis and reporting
+- **Raspberry Pi**: Hardware prototyping, automation, and IoT projects
 
 ### Core Skills:
-- **Deep Learning**: Model development, training, and deployment
-- **Machine Learning**: Supervised and unsupervised learning, model evaluation
-- **Multi-Dimensional Optimization**: Applied to complex AI problems
-- **Algorithm Development**: Designing efficient algorithms for AI/ML tasks
-- **Statistical Analysis**: Hypothesis testing, regression analysis
-- **Data Analysis & Preprocessing**: Data wrangling, feature extraction, and transformation
-- **Data Visualization**: Creating insights using tools like Matplotlib, Seaborn
-- **Problem-Solving**: Applying algorithms and statistical methods to business problems
-- **Teamwork & Communication**: Collaborative project execution
+- **Deep Learning**: Model training, deployment, and evaluation
+- **Machine Learning**: Supervised/unsupervised learning, model optimization
+- **Multi-Dimensional Optimization**: Applied to AI/ML problems
+- **Algorithm Development**: Efficient solutions for complex tasks
+- **Statistical Analysis**: Hypothesis testing, regression, inferential statistics
+- **Data Analysis & Preprocessing**: Data wrangling, feature extraction
+- **Data Visualization**: Insights using Matplotlib, Seaborn, and others
+- **Linux & Shell Scripting**: Automation, system monitoring, task scheduling
+- **Raspberry Pi Projects**: IoT, hardware interfacing, automation with sensors and LEDs
+- **Problem Solving**: Tackling complex technical challenges using algorithms
+- **Teamwork & Communication**: Effective project execution and collaboration
 
 ## Certifications and Courses
 
