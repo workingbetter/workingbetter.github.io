@@ -42,10 +42,34 @@ I am Michael Bogale, a Junior AI/Data Scientist driven by a passion for leveragi
     - Finite Element Analysis
       
 ### Skills
-- **Programming Languages:** Python, R, SQL
-- **Technologies:** TensorFlow, PyTorch, Scikit-learn, NLTK, Pandas, NumPy, SQL
-- **Tools:** Jupyter Notebook, Google Colab, Git, GitHub, SQL, Excel, Spreadsheet
-- **Others:** Deep Learning, Machine Learning, Multi-Dimension Optimisation, Algorithm developement, Statistical Analysis, Data Analysis and pre processing, Data Visualization, Teamwork, Problem Solving
+
+### Programming Languages:
+- **Python**: Advanced, used for AI/ML algorithms, data analysis, automation
+- **R**: Statistical computing and graphics, data visualization
+- **SQL**: Database querying, management, and optimization
+
+### Technologies:
+- **TensorFlow & PyTorch**: Deep Learning frameworks, model development
+- **Scikit-learn**: Classical Machine Learning algorithms, feature engineering
+- **NLTK**: Natural Language Processing, text analysis
+- **Pandas & NumPy**: Data manipulation, numerical operations, data cleaning
+
+### Tools:
+- **Jupyter Notebook & Google Colab**: Interactive coding environments for data analysis
+- **Git & GitHub**: Version control, collaborative projects
+- **SQL**: Database management, data querying
+- **Excel & Spreadsheets**: Data analysis, reporting, and visualization
+
+### Core Skills:
+- **Deep Learning**: Model development, training, and deployment
+- **Machine Learning**: Supervised and unsupervised learning, model evaluation
+- **Multi-Dimensional Optimization**: Applied to complex AI problems
+- **Algorithm Development**: Designing efficient algorithms for AI/ML tasks
+- **Statistical Analysis**: Hypothesis testing, regression analysis
+- **Data Analysis & Preprocessing**: Data wrangling, feature extraction, and transformation
+- **Data Visualization**: Creating insights using tools like Matplotlib, Seaborn
+- **Problem-Solving**: Applying algorithms and statistical methods to business problems
+- **Teamwork & Communication**: Collaborative project execution
 
 ## Certifications and Courses
 
