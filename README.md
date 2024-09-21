@@ -55,6 +55,7 @@ I am Michael Bogale, a Junior AI/Data Scientist driven by a passion for leveragi
 - **NLTK**: Text analysis and Natural Language Processing
 - **Pandas & NumPy**: Data manipulation, numerical operations, data preprocessing
 - **Linux**: Command-line interface, scripting, task automation, Raspberry Pi shell scripting.
+- **SolidWorks**: Expertise in Designing complex 3D components, assemblies, and performing strength analysis from my Machine Design background
 
 ### Tools:
 - **Jupyter Notebook & Google Colab**: Interactive coding environments
