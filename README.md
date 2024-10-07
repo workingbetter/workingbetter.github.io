@@ -157,7 +157,7 @@ Check out some of my featured projects, github links to projects are attached wi
 - **Repository:** [GitHub](https://github.com/workingbetter/Machine_Learning_Store-classification-by-Michael-Bogale)
 - **PDF File:** [PDF](https://github.com/workingbetter/Machine_Learning_Store-classification-by-Michael-Bogale/blob/main/ML_Assignment_3071806-5.pdf)
 - 
-### Project 5: [Optiimisation on Various Problems](https://github.com/workingbetter/Optimisation_Project_2/blob/main/Optimisation.pdf)
+### Project 5: [Optiimisation Algorithms on Various projects (Python)](https://github.com/workingbetter/Optimisation_Project_2/blob/main/Optimisation.pdf)
 
 <img src="/Images/w_optimisation.jpg">Fig: Multi Warehouse distribution Network
 
